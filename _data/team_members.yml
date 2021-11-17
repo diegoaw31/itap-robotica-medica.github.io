@@ -1,0 +1,116 @@
+- name: Juan-Carlos Fraile
+  photo: jcf.jpg
+  info: Associate professor, PhD Control Engineer
+  email: milan.allan@gmail.com
+  number_educ: 5
+  education1: <a href="https://www.eii.uva.es/~jcfraile/">Website</a>
+  education2: <a href="https://orcid.org/0000-0002-2877-7300">Link to ORCID</a>
+  education3: <a href="https://scholar.google.com/citations?user=w2x2kOUAAAAJ&hl=es">Link to Google Scholar</a>
+  education4: <a href="https://publons.com/researcher/1712802/juan-carlos-fraile/">Link to ResearcherID</a>
+  education5: <a href="https://www.researchgate.net/profile/Juan-Carlos-Fraile">Link to ResearchGate</a>
+
+- name: Javier Pérez-Turiel
+  photo: jpt.png
+  info: Associate professor, PhD Control Engineer
+  email: milan.allan@gmail.com
+  number_educ: 3
+  education1: <a href="https://orcid.org/0000-0002-7731-2411">Link to ORCID</a>
+  education2: <a href="https://scholar.google.com/citations?user=a3bilikAAAAJ&hl=en">Link to Google Scholar</a>
+  education3: <a href="https://www.researchgate.net/profile/Javier-Perez-Turiel">Link to ResearchGate</a>
+
+- name: Eusebio de la Fuente
+  photo: efl.jpg
+  info: Associate professor, PhD Control Engineer
+  email: milan.allan@gmail.com
+  number_educ: 2
+  education1: <a href="https://scholar.google.com/citations?user=DXn1IyEAAAAJ&hl=en">Link to Google Scholar</a>
+  education2: <a href="https://www.researchgate.net/profile/Eusebio-Fuente-Lopez">Link to ResearchGate</a>
+
+- name: José-Luis González-Sánchez
+  photo: jlgs.jpg
+  info: Associate professor, PhD Control Engineer
+  email: milan.allan@gmail.com
+  number_educ: 1
+  education1: <a href="https://www.researchgate.net/profile/Jose-Gonzalez-Sanchez-2">Link to ResearchGate</a>
+
+- name: Ana Cisnal
+  photo: acr.jpg
+  info: PhD student, Hired Researcher
+  email: milan.allan@gmail.com
+  number_educ: 3
+  education1: <a href="https://orcid.org/0000-0002-1556-7179">Link to ORCID</a>
+  education2: <a href="https://scholar.google.com/citations?hl=en&user=V5jQOYMAAAAJ">Link to Google Scholar</a>
+  education3: <a href="https://www.researchgate.net/profile/Ana-Cisnal-2">Link to ResearchGate</a>
+  
+- name: Lidia Santos
+  photo: ls.jpg
+  info: PhD student, Hired Researcher
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+ 
+- name: Borja Fernández Villar
+  photo: bfv.png
+  info: PhD student
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+
+- name: David sierra
+  photo: ds.jpg
+  info: PhD student, Hired Researcher
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+
+- name: Víctor Moreno San Juan
+  photo: vmsj.jpg
+  info: PhD student
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+
+- name: Gonzalo Alonso Alonso de Linaje
+  photo: gaal.jpg
+  info: Master Student, Hired Researcher
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+
+- name: Guillermo Sánchez Brizuela
+  photo: gsb.jpg
+  info: Master Student, Hired Researcher
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+
+- name: Carlos Fontúrbel Mediavilla
+  photo: cfm.jpg
+  info: Master Student, Hired Researcher
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+
+- name: Diego de las Heras Rebellón
+  photo: dhr.jpg
+  info: Hired Researcher
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+
+- name: Alberto Fraile Luengo
+  photo: dhr.jpg
+  info: Laboratory Technician
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1: 
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
