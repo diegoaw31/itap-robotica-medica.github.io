@@ -1,13 +1,17 @@
 ---
-title: "Allan Lab - Home"
+title: "ITAP Medical Robotics - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "ITAP Medical Robotics at University of Valladolid."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 
+[ITAP (Institute of Advanced Production Technologies)](https://www.itap.uva.es/) is a university research institute of the University of Valladolid, formed by more than 28 research professors from different areas of knowledge of the Faculty of Engineering and the Faculty of Medicine, of the University of Valladolid. 
+
+ITAP also collaborates with researchers from the CARTIF Foundation technology center, doctors from the University Clinical Hospital of Valladolid and the Rio Hortega University Hospital in Valladolid. All of them collaborate in tasks in the field of control engineering and medical engineering, combining the work of research with technology transfer and teachers.
+
+The research group in Biomedical Engineering of the ITAP Research Institute is made up of professors from the Department of Systems Engineering and Automation of the Faculty of Engineering of the University of Valladolid. The components of this research group have been working in the area of ​​robotics since 1990.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,15 +56,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
-
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+<!--
 
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
@@ -70,3 +66,5 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
+
+-->

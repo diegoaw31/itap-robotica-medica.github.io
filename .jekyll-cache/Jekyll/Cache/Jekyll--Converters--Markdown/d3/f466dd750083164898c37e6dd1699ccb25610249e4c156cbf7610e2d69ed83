@@ -1,4 +1,5 @@
-I"�0<h1 id="group-members">Group Members</h1>
+I"
+2<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
 
@@ -280,7 +281,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/dhr.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/dhr.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Diego de las Heras Rebellón</h4>
     <p><i>Hired Researcher <!--<br>email: <milan.allan@gmail.com></i> --></i></p>
     <ul style="overflow: hidden">
@@ -348,7 +349,7 @@
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/apg.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Ángel Padilla Gutiérrez (Wiki)</h4>
+    <h4>Ángel Padilla Gutiérrez</h4>
     <p><i>BSc student <!-- <br>email: <></i> --></i></p>
     <ul style="overflow: hidden">
 
@@ -367,6 +368,27 @@
     <p><img src="http://localhost:4000/images/teampic/dal.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Daniel Antolín López</h4>
     <p><i>Master student <!-- <br>email: <></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/edlf.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Eva de la Fuente García</h4>
+    <p><i>BSc student <!-- <br>email: <></i> --></i></p>
     <ul style="overflow: hidden">
 
   

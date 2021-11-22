@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "ITAP Medical Robotics - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "ITAP Medical Robotics -- Pictures"
 permalink: /pictures/
 ---
 

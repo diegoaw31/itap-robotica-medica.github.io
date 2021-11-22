@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "ITAP Medical Robotics - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "ITAP Medical Robotics - Team"
 sitemap: false
 permalink: /team/
 ---

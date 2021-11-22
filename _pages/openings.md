@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "ITAP Medical Robotics - Openings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "ITAP Medical Robotics - Openings"
 sitemap: false
 permalink: /vacancies
 ---

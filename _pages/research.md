@@ -1,12 +1,116 @@
 ---
-title: "Allan Lab - Research"
+title: "ITAP Medical Robotics - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "ITAP Medical Robotics - Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
+
+Research in medical robotics and rehabilitation robotics within the medical robotics research group of ITAP focuses on providing real solutions to surgical, healthcare and rehabilitation challenges. The two lines of research in which this group works are:
+
+## Rehabilitation robotics
+
+Design, control and manufacture of robotic devices for rehabilitation tasks of upper limbs in people with neuromotor disability. In this line of research, mechatronic robot-assisted exercise devices are developed that significantly improve the success rate in neurological rehabilitation therapy to relearn the movement abilities of the upper limbs (arm and hand). Neurological rehabilitation treatment to relearn movement capabilities after a stroke, paraplegia or traumatic brain injury is based on intensive movement therapy over a period of several weeks and months, sometimes even years. This therapy helps patients to relearn the daily movements of arms and hands. The arms and hands are guided repeatedly in natural movements so that the healthy areas of the brain can learn successively to control the paralyzed limbs. Robot-assisted therapy exercise devices can relieve therapists of heavy, monotonous physical work, while increasing the intensity of patient therapy. Clinical studies in patients treated with robotic-assisted therapy exercise devices show a greatly improved success rate compared to patients treated with conventional therapy.
+
+This line of research is developed through projects with the companies CyL ImasD S.L. and Aplifisa, projects funded by the CDTI.
+
+In this line of research, he collaborates very actively with the rehabilitation service of the University Clinical Hospital of Valladolid, directed by Dr. Emilio J. Barajas.
+
+<div markdown="0" id="carousel_rehab" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width:100%;margin: 0 auto;">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel_rehab" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel_rehab" data-slide-to="1"></li>
+        <li data-target="#carousel_rehab" data-slide-to="2"></li>
+        <li data-target="#carousel_rehab" data-slide-to="3"></li>
+        <li data-target="#carousel_rehab" data-slide-to="4"></li>
+        <li data-target="#carousel_rehab" data-slide-to="5"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel_rehab" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel_rehab" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+## Laparoscopic surgery
+
+Design and control of robotic assistants for minimally invasive surgery. This type of surgery is performed with instruments and visualization equipment inserted into the body through small incisions created by the surgeon, unlike open surgery with large incisions. This minimizes surgical trauma and damage to healthy tissues, which reduces the patient's recovery time. Unfortunately, there are disadvantages due to the dexterity reduction, the workspace, and the sensory input for the surgeon that is only available through a single video image. In this line of research, control strategies and mechatronic devices are developed that help the surgeon during the surgical intervention.
+
+In this line of research projects are carried out in collaboration with the medical robotics group of the University of Malaga led by Dr. Victor Muñoz, and with the NBIO group of the Miguel Hernández de Elche University, directed by Dr. José María Sabater .
+
+<div markdown="0" id="carousel_laparoscopic" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width:100%;margin: 0 auto;">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel_laparoscopic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel_laparoscopic" data-slide-to="1"></li>
+        <li data-target="#carousel_laparoscopic" data-slide-to="2"></li>
+        <li data-target="#carousel_laparoscopic" data-slide-to="3"></li>
+        <li data-target="#carousel_laparoscopic" data-slide-to="4"></li>
+        <li data-target="#carousel_laparoscopic" data-slide-to="5"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel_laparoscopic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel_laparoscopic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+---
+---
+---
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
@@ -43,4 +147,4 @@ We have proposed that artificial super-periodicities can lead to improved superc
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
-### ... and more.
+
