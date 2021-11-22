@@ -12,7 +12,7 @@
 
 - title: "RobHand: A Hand Exoskeleton With Real-Time EMG-Driven Embedded Control. Quantifying Hand Gesture Recognition Delays for Bilateral Rehabilitation"
   type: journal
-  image: robhand.jpg
+  image: robhand_pic.jpg
   description: "
     This paper presents the RobHand
     (Robot for Hand Rehabilitation) system, which is an exoskeleton that supports EMG-driven assisted bilateral
@@ -38,7 +38,7 @@
   
 - title: "Collaborative Robotic Assistant Platform for Endonasal Surgery: Preliminary In-Vitro Trials"
   type: journal
-  image: colab_surg.jpg
+  image: colab_surgery.jpg
   description: "
   This paper
     aims to go a step further with a platform that includes a teleoperated robot and an autonomous robot
