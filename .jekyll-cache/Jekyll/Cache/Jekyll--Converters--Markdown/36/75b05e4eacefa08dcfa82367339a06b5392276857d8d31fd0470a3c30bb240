@@ -1,0 +1,23 @@
+I"�
+<h1 id="hiper-redundant-robot-for-technical-assistance-notes--sils">HIPER-REDUNDANT ROBOT FOR TECHNICAL ASSISTANCE NOTES / SILS</h1>
+
+<p><b>Funding Entity:</b> Ministry of Science and Innovation - National R &amp; D Plan.<br />
+<b>Reference:</b> DPI2010-21126-C03-03<br />
+<b>Participating entity:</b> CARTIF. Project coordinated with the robotics group of the University of Málaga and the Nbio group of the Miguel Hernández University of Elche.<br />
+<b>Duration:</b> January 2011 - December 2013</p>
+
+<hr />
+
+<p><img src="http://localhost:4000/images/logo_ciencia_universidades.jpg" class="img-responsive" width="100%" />
+<img src="http://localhost:4000/images/feder.jpg" class="img-responsive" width="100%" /></p>
+
+<hr />
+
+<p>Project coordinated with the <a href="http://www.roboticamedica.uma.es/">Robotics Group of the University of Málaga</a> and the Nbio group of “Miguel Hernández University” of Elche.</p>
+
+<hr />
+
+<p>This research project proposes a leap from the current conception of robotic laparoscopic surgery, focused on tele-operated robots. It proposes a co-worker robot within the concept of surgery 4.0 able to assist the surgeon in procedures of laparoscopic sutures. The robotic system will be composed by five arms: a cameraman robot, two tele-operated arms with haptics capabilities, and two autonomous robotic arms. This assistance will be developed thanks to fault-tolerant cognitive architecture with intervention supervision, which uses a qualitative representation of the workflow in order to plan the actuations to assist to the surgeon. These actuations will be executed by a fault tolerance motion control able to coordinate the different arm movements.</p>
+
+<p>A human-robot interaction system will manage the different modes of robot system assistance. The challenges of this project proposal are related with the development of a robot system with awareness of the surgical workflow by means of the use of the epistemic logic. Moreover, regarding anastomoses procedures, there are robots able to control several laparoscopic instruments, but they use geometric rules for its movements and they only take into account cinematic considerations. They do consider neither the tissue dynamics nor a fault during the surgical suture. In order to solve these problems a global planer will be developed, which will select a qualitative robot actuation by considering the current situation of the surgical area, and a scheduler able to convert these actuations in actual arm robot movements will be integrated, as well. A human-robot interaction system will manage several modes of robot assistance during a surgical suture and will be able to provide the system with feedback about the quality of the robot assistance.</p>
+:ET

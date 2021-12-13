@@ -1,7 +1,7 @@
 ---
 title: "ITAP Medical Robotics - Projects"
 layout: gridlay
-excerpt: "ITAP Medical Robotics -- Projects."
+excerpt: "ITAP Medical Robotics -- Projects"
 sitemap: false
 permalink: /projects/
 ---

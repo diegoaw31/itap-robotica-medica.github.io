@@ -5,11 +5,62 @@
 - title: "SURGICAL MULTI-ROBOT COORDINATION – ROBOTIC ANASTOMOSIS COMPETENCE EVALUATION"
   description: 
     "
-    This research project proposes a leap from the current conception of robotic laparoscopic surgery, 
-    focused on tele-operated robots. It proposes a co-worker robot within the concept of surgery 4.0 able to assist the surgeon in procedures of laparoscopic sutures. 
-    The robotic system will be composed by five arms: a cameraman robot, two tele-operated arms with haptics capabilities, and two autonomous robotic arms. 
-    This assistance will be developed thanks to fault-tolerant cognitive architecture with intervention supervision, 
-    which uses a qualitative representation of the workflow in order to plan the actuations to assist to the surgeon. 
-    These actuations will be executed by a fault tolerance motion control able to coordinate the different arm movements.
+
     "
   url: "multirobot"
+  
+- title: "PLATFORM FOR NEUROMOTOR AND COGNITIVE REHABILITATION THROUGH ACTIVE THERAPIES IN PEOPLE WHO HAVE SUFFERED A CEREBROVASCULAR ACCIDENT"
+  description: 
+    "
+
+    "
+  url: "neuromotor"
+  
+- title: "DEVELOPMENT OF A NEW MODEL OF EFFICIENT MANAGEMENT OF EXTENSIVE MEAT VACCINE FLOCK, BASED ON THE INDIVIDUAL CONTROL OF EACH ANIMAL (CIVEX)"
+  description: 
+    "
+
+    "
+  url: "civex"
+  
+- title: "ROBOT FOR REHABILITATION OF THE FUNCTIONS OF THE HAND THROUGH ACTIVE THERAPIES, IN PEOPLE WITH NEUROMOTOR DISABILITY (ROBHAND)"
+  description: 
+    "
+
+    "
+  url: "robhand"
+  
+- title: "ROBOTIC DEVICE FOR TERMINAL GRIP (END-EFFECTOR) FOR NEURO-REHABILITATION OF HIGHER MEMBERS, WITH ACTIVE THERAPIES, SELF-ADAPTED TO THE NEEDS OF EACH PATIENT (E2REBOT)"
+  description: 
+    "
+
+    "
+  url: "e2rebot"
+  
+- title: "ROBOTIC SYSTEM FOR ENDONASAL ENDOSCOPIC NEUROSURGERY"
+  description: 
+    "
+
+    "
+  url: "endonasal"
+  
+- title: "SENSORIZED HALS. SENSORIZED ENVIRONMENT FOR LAPAROSCOPIC SURGERY ASSISTED BY THE HAND"
+  description: 
+    "
+
+    "
+  url: "hals"
+  
+- title: "HIPER-REDUNDANT ROBOT FOR TECHNICAL ASSISTANCE NOTES / SILS"
+  description: 
+    "
+
+    "
+  url: "hiperredundant"
+  
+- title: "ROBOTIZED SYSTEM FOR THE REGULATION OF ASSISTANCE IN REHABILITATION TASKS OF HIGHER MEMBERS, USING PHYSIOLOGICAL SIGNS OF THE AUTONOMOUS PATIENT NERVOUS SYSTEM"
+  description: 
+    "
+
+    "
+  url: "robotizedassistance"

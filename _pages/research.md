@@ -1,7 +1,7 @@
 ---
 title: "ITAP Medical Robotics - Research"
 layout: textlay
-excerpt: "ITAP Medical Robotics - Research"
+excerpt: "ITAP Medical Robotics -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -16,7 +16,7 @@ Design, control and manufacture of robotic devices for rehabilitation tasks of u
 
 This line of research is developed through projects with the companies CyL ImasD S.L. and Aplifisa, projects funded by the CDTI.
 
-In this line of research, he collaborates very actively with the rehabilitation service of the University Clinical Hospital of Valladolid, directed by Dr. Emilio J. Barajas.
+In this line of research, we collaborate very actively with the rehabilitation service of the University Clinical Hospital of Valladolid, directed by Dr. Emilio J. Barajas.
 
 <div markdown="0" id="carousel_rehab" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="width:100%;margin: 0 auto;">
     <!-- Menu -->
@@ -109,8 +109,8 @@ In this line of research projects are carried out in collaboration with the medi
 </div>
 
 ---
----
----
+
+<!--
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
@@ -148,3 +148,4 @@ We have proposed that artificial super-periodicities can lead to improved superc
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 
+-->
