@@ -1,0 +1,87 @@
+I"Œ<h1 id="projects">Projects</h1>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/multirobot">Surgical Multi-Robot Coordination - Robotic Anastomosis Competence Evaluation</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/neuromotor">Platform for Neuromotor and Cognitive Rehabilitation through Active Therapies in People Who Have Suffered a Cerebrovascular Accident</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/civex.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/civex">Development of a New Model of Efficient Management of Extensive Meat Vaccine Flock, Based on the Individual control of Each Animal (CIVEX)</a></pubtit>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dapibus convallis sem, quis luctus urna efficitur et. Nunc placerat pharetra risus. Cras nec magna a justo ullamcorper suscipit ut sit amet nunc. Mauris congue arcu in quam dignissim, ac dignissim justo imperdiet. Morbi condimentum eget mauris maximus scelerisque. Vivamus interdum pharetra ligula in dapibus. Curabitur non mollis nisl, sed suscipit massa. Praesent aliquam ut ipsum a varius. Cras aliquam interdum mauris. Donec dignissim, lorem sed malesuada porta, leo arcu condimentum urna, et accumsan elit mauris mollis purus. Fusce ipsum enim, faucibus vel est in, laoreet congue mi. Nullam pretium nisl ac arcu ornare faucibus. Nam convallis nisi neque, eget varius ante volutpat vel. Phasellus tristique et erat ut scelerisque.
+Donec at dui sed ex congue dignissim. Mauris vulputate, nisi et tincidunt fermentum, turpis ipsum tincidunt ex, a vehicula quam neque eu enim. Pellentesque elit est, euismod in mi eu, ullamcorper vulputate dolor. Nunc lorem nunc, iaculis ut tortor ut, rhoncus laoreet elit. Praesent vitae dictum erat. Pellentesque pretium commodo lectus nec interdum. Quisque mauris felis, tempus consectetur nibh sed, laoreet condimentum augue. Morbi mattis magna justo, in cursus justo imperdiet ac. Pellentesque fermentum ex a finibus laoreet.
+Nulla finibus nunc ac vestibulum fermentum. Donec tincidunt placerat sapien, quis tempus eros rutrum consectetur. Phasellus erat nulla, consectetur non turpis a, laoreet consectetur velit. Suspendisse pretium, risus euismod euismod ultrices, nisi orci suscipit magna, in mattis lorem nulla ut elit. Aliquam quis leo in tortor congue porta. Nulla vel pretium ipsum. Aliquam erat volutpat. Vivamus accumsan finibus justo.
+Nunc elementum aliquam lectus, quis volutpat nulla cursus vel. Ut feugiat porttitor nisi, eget sagittis felis finibus eu. Cras tincidunt placerat facilisis. Vivamus finibus luctus erat, sit amet auctor odio placerat id. Vivamus ac metus pharetra, scelerisque tortor at, varius tellus. Fusce feugiat mauris. </p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/robhand">Robot for Rehabilitation of the Functions of the Hand Through Active Therapies, in People with Neuromoto Disability (ROBHAND)</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/e2rebot">ROBOTIC DEVICE FOR TERMINAL GRIP (END-EFFECTOR) FOR NEURO-REHABILITATION OF HIGHER MEMBERS, WITH ACTIVE THERAPIES, SELF-ADAPTED TO THE NEEDS OF EACH PATIENT (E2REBOT)</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/endonasal">ROBOTIC SYSTEM FOR ENDONASAL ENDOSCOPIC NEUROSURGERY</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/hals">SENSORIZED HALS. SENSORIZED ENVIRONMENT FOR LAPAROSCOPIC SURGERY ASSISTED BY THE HAND</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/hiperredundant">HIPER-REDUNDANT ROBOT FOR TECHNICAL ASSISTANCE NOTES / SILS</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/robotizedassistance">ROBOTIZED SYSTEM FOR THE REGULATION OF ASSISTANCE IN REHABILITATION TASKS OF HIGHER MEMBERS, USING PHYSIOLOGICAL SIGNS OF THE AUTONOMOUS PATIENT NERVOUS SYSTEM</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<p> Â  </p>
+:ET

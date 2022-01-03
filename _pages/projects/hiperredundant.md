@@ -23,6 +23,20 @@ This project addresses the development of new robotic tools useful for the two t
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/CARTIF.png" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_economia.png" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg" class="img-responsive" width="100%" />
+<div class="col-md-4">
+<a href="https://www.cartif.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/CARTIF.png"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-4">
+<a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-4">
+<a href="https://portal.mineco.gob.es/es-es/Paginas/default.aspx">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_economia.png"  class=" img-responsive" />
+</a>
+</div>

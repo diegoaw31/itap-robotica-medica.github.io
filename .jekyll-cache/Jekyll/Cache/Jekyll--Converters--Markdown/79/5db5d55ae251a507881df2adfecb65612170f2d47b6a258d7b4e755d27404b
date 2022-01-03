@@ -1,0 +1,84 @@
+I"½<h1 id="projects">Projects</h1>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/multirobot">Surgical Multi-Robot Coordination - Robotic Anastomosis Competence Evaluation</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/neuromotor">Platform for Neuromotor and Cognitive Rehabilitation through Active Therapies in People Who Have Suffered a Cerebrovascular Accident</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/civex.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/civex">Development of a New Model of Efficient Management of Extensive Meat Vaccine Flock, Based on the Individual control of Each Animal (CIVEX)</a></pubtit>
+    <p> The general objective of this project is the creation, development and implementation in the cattle sector of the extensive beef, of a new animal management and management system that allows: knowledge and improvement of the health status of the animals (through monitoring not invasive of physical and animal variables: heart rate, temperature, respiration), and allow work to improve the fertility and prolificacy rates of the livestock, optimize the management and control of livestock, and improve economic efficiency of livestock farms through control and cost savings. </p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/robhand">Robot for Rehabilitation of the Functions of the Hand Through Active Therapies, in People with Neuromoto Disability (ROBHAND)</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/e2rebot">Robotic Device for Terminal Grip (End-Effector) for Neuro-Rehabilitation of Higher Members, with Active Therapies, Self-Adapted to the Needs of Each Patient (E2REBOT)</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/endonasal">Robotic System for Endonasal Endoscopic Neurosurgery</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/hals">Sensorized Hals. Sensorized Environment for Laparoscopic Surgery Assisted by the Hand</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/hiperredundant">Hiper-Redundant Robot for Technical Assistance Notes / SILS</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/robotizedassistance">Robotized System for the Regulation of Assistance in Rehabilitation Tasks of Higher Members, Using Physiological Signsof the Autonomous Patient Nervous System</a></pubtit>
+    <p>
+</p>
+  </div>
+</div>
+
+<p> Â  </p>
+:ET

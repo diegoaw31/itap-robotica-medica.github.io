@@ -40,6 +40,20 @@ The specific objectives of the project are:
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logoCyLRojo.jpg" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.jpg" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg" class="img-responsive" width="100%" />
+<div class="col-md-4">
+<a href="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logoCyLRojo.jpg"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-4">
+<a href="https://www.cdti.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.jpg"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-4">
+<a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
+</a>
+</div>

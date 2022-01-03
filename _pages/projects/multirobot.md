@@ -25,5 +25,14 @@ A human-robot interaction system will manage the different modes of robot system
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia_universidades.jpg" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg" class="img-responsive" width="100%" />
+<div class="col-md-6">
+<a href="https://www.ciencia.gob.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia_universidades.jpg"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-6">
+<a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
+</a>
+</div>

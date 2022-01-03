@@ -28,4 +28,35 @@ On the other hand, and in order to facilitate its entry into the market, the pla
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/m3r_logos.png" class="img-responsive" width="100%"/>
+<div class="col-md-12">
+<a href="https://www.ciencia.gob.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia.png"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;"/>
+</a>
+</div>
+
+<div class="col-md-4">
+<a href="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ticcyl.png"  class=" img-responsive" />
+</a>
+</div>
+<div class="col-md-4">
+<a href="http://www.uva.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/uva.png"  class=" img-responsive" />
+</a>
+</div>
+<div class="col-md-4">
+<a href="http://www.benitomenni.org/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/benitomenni.png"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-6">
+<a href="https://www.itap.uva.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_itap_grande.jpg"  class=" img-responsive" />
+</a>
+</div>
+<div class="col-md-6">
+<a href="http://www.gib.tel.uva.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/GIB_Header.png"  class=" img-responsive" />
+</a>
+</div>

@@ -38,7 +38,23 @@ The implementation of this project will provide the beef cattle sector with exte
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/aplifisa.png" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/copasa.jpg" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.jpg" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg" class="img-responsive" width="100%" />
+<div class="col-md-6">
+<a href="https://www.aplifisa.com/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/aplifisa.png" class=" img-responsive" />
+</a>
+</div>
+<div class="col-md-6">
+<a href="https://www.copasa.org/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/copasa.jpg"  class=" img-responsive" />
+</a>
+</div>
+<div class="col-md-6">
+<a href="https://www.cdti.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.jpg"  class=" img-responsive" />
+</a>
+</div>
+<div class="col-md-6">
+<a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
+</a>
+</div>

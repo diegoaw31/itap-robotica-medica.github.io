@@ -27,6 +27,20 @@ To the security software that the robot owns by default, two layers of software 
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/CARTIF.png" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia.png" class="img-responsive" width="100%" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg" class="img-responsive" width="100%" />
+<div class="col-md-4">
+<a href="https://www.cartif.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/CARTIF.png"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-4">
+<a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-4">
+<a href="https://www.ciencia.gob.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia.png"  class=" img-responsive" />
+</a>
+</div>
