@@ -6,7 +6,8 @@ sitemap: false
 permalink: /projects/neuromotor
 ---
 
-# PLATFORM FOR NEUROMOTOR AND COGNITIVE REHABILITATION THROUGH ACTIVE THERAPIES IN PEOPLE WHO HAVE SUFFERED A CEREBROVASCULAR ACCIDENT M3Rob (Mind-Hand-Wrist-Robot)
+<br>
+### Platform for Neuromotor and Cognitive Rehabilitation Through Active Therapies in People who have Suffered a Cerebrovascular Accident M3Rob (Mind-Hand-Wrist-Robot)
 
 <b>Funding Entity:</b> Ministry of Science and Innovation of Spain.  
 <b>Reference:</b>  Research Project RTC2019-007350-1  

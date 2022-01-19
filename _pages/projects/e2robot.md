@@ -6,7 +6,8 @@ sitemap: false
 permalink: /projects/e2rebot
 ---
 
-# ROBOTIC DEVICE FOR TERMINAL GRIP (END-EFFECTOR) FOR NEURO-REHABILITATION OF HIGHER MEMBERS, WITH ACTIVE THERAPIES, SELF-ADAPTED TO THE NEEDS OF EACH PATIENT (E2REBOT)
+<br>
+### Robotic Devide for Terminal Grip (End-Effector) for Neuro-Rehabilitation of Higher Members, with Active Therapies, Self-Adapted to the Needs of Each Patient (E2REBOT)
 
 <b>Funding Entity:</b> CDTI, cooperative research and development project.  
 <b>Reference:</b> IDI-20130740  

@@ -6,7 +6,8 @@ sitemap: false
 permalink: /projects/hiperredundant
 ---
 
-# HIPER-REDUNDANT ROBOT FOR TECHNICAL ASSISTANCE NOTES / SILS
+<br>
+### Hiper-Redundant Robot for Technical Assistance Notes / SILS
 
 <b>Funding Entity:</b> Ministry of Science and Innovation - National R & D Plan.  
 <b>Reference:</b> DPI2010-21126-C03-03  

@@ -6,7 +6,8 @@ sitemap: false
 permalink: /projects/civex
 ---
 
-# DEVELOPMENT OF A NEW MODEL OF EFFICIENT MANAGEMENT OF EXTENSIVE MEAT VACCINE FLOCK, BASED ON THE INDIVIDUAL CONTROL OF EACH ANIMAL (CIVEX)
+<br>
+### Development of a New Model of Efficient Management of Extensive Meat Vaccine Flock, Based on the Individual Control of Each Animal (CIVEX)
 
 <b>Funding Entity:</b> CDTI, research and development project.  
 <b>Reference:</b> IDI-20180354 y IDI-20180355  

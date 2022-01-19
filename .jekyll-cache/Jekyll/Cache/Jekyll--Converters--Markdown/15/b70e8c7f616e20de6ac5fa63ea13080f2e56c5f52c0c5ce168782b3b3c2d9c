@@ -1,4 +1,21 @@
-I"�)<h1 id="projects">Projects</h1>
+I"41<h1 id="projects">Projects</h1>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/covid.png" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/covid">Surgical Multi-Robot Coordination - Robotic Anastomosis Competence Evaluation</a></pubtit>
+    <p> El objetivo de este proyecto es acelerar el proceso de recuperación de pacientes que han sufrido COVID y como consecuencia de esa enfermedad tienen secuelas neuromotoras que limitan la movilidad de su mano, lo que les impide realizar actividades de la vida diaria (coger un vaso, abrir una puerta, coger una cuchara,…).
+This research projects aims to accelerate the recovery process of patients that have suffered COVID and have neuromotor sequels that hamper their hand movility as a consequence, preventing them to carry out daily life activities. </p>
+  </div>
+</div>
+
+<div style="padding-left:15px;padding-right:15px;">
+  <div class="well" style="overflow: hidden;">
+    <p><img src="http://localhost:4000/images/projpic/isfet.png" class="img-responsive" width="33%" style="float: left" /></p>
+    <pubtit><a href="http://localhost:4000/projects/isfet">Development and Fabrication of a Laboratory Prototype of a Real Time Ground and Fluids Analysis Instrumental Device</a></pubtit>
+    <p> The main objective of this project is to research and design a novel electronic device that leverages ISFET sensor to study variables and chemical characteristics of a substance that need to be analyzed without the need of a laboratory analysis. When applied to the agri-food sector, this device will allow the optimization of fertilization or water and crops treatment processes utilizing the gathered real time knowledge of the previously mentioned variables. </p>
+  </div>
+</div>
 
 <div style="padding-left:15px;padding-right:15px;">
   <div class="well" style="overflow: hidden;">

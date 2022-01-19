@@ -6,7 +6,8 @@ sitemap: false
 permalink: /projects/robotizedassistance
 ---
 
-# ROBOTIZED SYSTEM FOR THE REGULATION OF ASSISTANCE IN REHABILITATION TASKS OF HIGHER MEMBERS, USING PHYSIOLOGICAL SIGNS OF THE AUTONOMOUS PATIENT NERVOUS SYSTEM
+<br>
+### Robotized System for the Regulation of Assistance in Rehabilitation Tasks of Higher Members, Using Physiological Signs of the Autonomous Patient Nervous System
 
 <b>Funding Entity:</b> Ministry of Science and Innovation.  
 <b>Reference:</b> DPI2009-10658  

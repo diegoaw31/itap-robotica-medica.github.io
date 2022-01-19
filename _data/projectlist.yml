@@ -2,6 +2,26 @@
 #   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
 #   url: https://www.nature.com/articles/s41567-018-0300-z
 
+- title: "Development and Clinical Trials of a Rehabilitation Platform to Accelerate the Recovery of Patients with Neuromotor Sequelae Caused by COVID"
+  image: "covid.png"
+  description: 
+    "
+    This research projects aims to accelerate the recovery process of patients that have suffered COVID and have neuromotor sequelae that hamper their hand movility as a consequence, preventing them to carry
+    out daily life activities. The technical objective of this project is to design and develop specific therapies to treat COVID-caused neuromotor problems, as well as the redesign and readaptation of the
+    ROBHAND robot for this kind of patients.
+    "
+  url: "covid"
+
+- title: "Development and Fabrication of a Laboratory Prototype of a Real Time Ground and Fluids Analysis Instrumental Device"
+  image: "isfet.png"
+  description: 
+    "
+    The main objective of this project is to research and design a novel electronic device that leverages ISFET sensor to study variables and chemical characteristics of a substance that need to be analyzed
+    without the need of a laboratory analysis. When applied to the agri-food sector, this device will allow the optimization of fertilization or water and crops treatment processes utilizing the gathered
+    real time knowledge of the previously mentioned variables.
+    "
+  url: "isfet"
+
 - title: "Surgical Multi-Robot Coordination - Robotic Anastomosis Competence Evaluation"
   description: 
     "

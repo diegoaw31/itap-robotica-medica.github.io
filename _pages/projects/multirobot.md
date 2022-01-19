@@ -6,7 +6,8 @@ sitemap: false
 permalink: /projects/multirobot
 ---
 
-# SURGICAL MULTI-ROBOT COORDINATION – ROBOTIC ANASTOMOSIS COMPETENCE EVALUATION
+<br>
+### Surgical Multi-Tobot Coordination - Robotic Anastomosis Competence Evaluation
 
 <b>Funding Entity:</b> Ministry of Science, Innovation and Universities.  
 <b>Reference:</b>  Research project PID2019-111023RB-C33  

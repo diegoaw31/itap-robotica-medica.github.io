@@ -6,7 +6,8 @@ sitemap: false
 permalink: /projects/hals
 ---
 
-# SENSORIZED HALS. SENSORIZED ENVIRONMENT FOR LAPAROSCOPIC SURGERY ASSISTED BY THE HAND
+<br>
+### Senssorized HALS. Sensorized Environment for Laparoscopic Surgery Assisted by the Hand
 
 <b>Funding Entity:</b> Ministry of Economy and Competitiveness - National R & D Plan.  
 <b>Reference:</b> DDPI2013-47196-C3-3-R  

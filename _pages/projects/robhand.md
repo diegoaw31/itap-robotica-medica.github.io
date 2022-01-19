@@ -6,7 +6,8 @@ sitemap: false
 permalink: /projects/robhand
 ---
 
-# ROBOT FOR REHABILITATION OF THE FUNCTIONS OF THE HAND THROUGH ACTIVE THERAPIES, IN PEOPLE WITH NEUROMOTOR DISABILITY (ROBHAND)
+<br>
+### Robot for Rehabilitation of the Functions of the Hand Through Active Therapies, in People with Neuromotor Desability (ROBHAND)
 
 <b>Funding Entity:</b> CDTI, research and development project.  
 <b>Reference:</b>  IDI-20170263  

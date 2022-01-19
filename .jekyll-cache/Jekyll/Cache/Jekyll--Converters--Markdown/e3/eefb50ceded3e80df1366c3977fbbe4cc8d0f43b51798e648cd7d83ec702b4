@@ -1,0 +1,70 @@
+I"�<p><br /></p>
+<h3 id="development-and-fabrication-of-a-laboratory-prototype-of-a-real-time-ground-and-fluids-analysis-instrumental-device">Development and Fabrication of a Laboratory Prototype of a Real Time Ground and Fluids Analysis Instrumental Device</h3>
+
+<p><b>Funding Entity:</b> ADE (Agencia de Desarrollo Económico), Junta de Castilla y León (Spain).<br />
+<b>Reference:</b>  Research Project 04/18/SA/0016<br />
+<b>Responsible company:</b> Ticcyl Digital S.L. (Salamanca - Spain).<br />
+<b>Participating entity:</b>  University of Valladolid: ITAP Research Institute, Chemical Transducers Group (CSIC-Barcelona).<br />
+<b>Duration:</b> January 2020 – September 2022</p>
+
+<hr />
+
+<p>The main objective of this project is to research and design a novel electronic device that leverages ISFET sensor to study variables and chemical characteristics 
+of a substance that need to be analyzed without the need of a laboratory analysis. When applied to the agri-food sector, this device will allow the optimization 
+of fertilization or water and crops treatment processes utilizing the gathered real time knowledge of the previously mentioned variables.</p>
+
+<p>Se diseñará y construirá un dispositivo de medición de variables químicas validado científicamente con el propósito de que permita agilizar el trabajo de análisis, 
+facilite la portabilidad del laboratorio al campo, reduzca los costes de análisis y permita conocer los resultados en tiempo real, para ser un referente a nivel 
+internacional en materia de análisis químico mediante sensores de contacto en tiempo real.</p>
+
+<p>Objetivos del proyecto</p>
+
+<p>•	Investigar la posibilidad de utilizar sensores ISFET para la determinación química de los suelos, volátiles y soluciones acuosas.</p>
+
+<p>•	Investigar la correlación de los resultados obtenidos con el prototipo de laboratorio basado en sensores ISFET con respecto a los análisis tradicionales de laboratorio, y determinar el proceso de normalización de resultados.</p>
+
+<p>•	Investigar las vías de comunicación de los resultados a redes inalámbricas tipo LORAWAN, SIGFOX y otras disponibles para Industria 4.0</p>
+
+<p>•	Diseñar un dispositivo portátil, tipo bastón que pueda incorporar toda la electrónica, sensorización y comunicación en tiempo real.</p>
+
+<p>•	Reducir los costes asociados a la realización de análisis de suelos, aguas o fluidos, ya que este instrumental permitiría contar con un pequeño dispositivo electrónico que cupiese en la palma de la mano.</p>
+
+<p>•	Facilitar la toma de decisiones por parte de los agricultores, técnicos de campos y comerciales del sector mediante el conocimiento científico de las necesidades hídricas y de fertilización de los cultivos en base a la información aportada por el instrumento.</p>
+
+<p>•	Reducir el impacto medioambiental facilitando la reducción del empleo de fertilizantes y la optimización de las necesidades hídricas de los cultivos.</p>
+
+<hr />
+
+<div class="col-md-12">
+  <p><a href="https://www.ciencia.gob.es/">
+<img src="http://localhost:4000/images/logo_ciencia.png" class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;" />
+</a></p>
+</div>
+
+<div class="col-md-4">
+  <p><a href="">
+<img src="http://localhost:4000/images/ticcyl.png" class=" img-responsive" />
+</a></p>
+</div>
+<div class="col-md-4">
+  <p><a href="http://www.uva.es/">
+<img src="http://localhost:4000/images/uva.png" class=" img-responsive" />
+</a></p>
+</div>
+<div class="col-md-4">
+  <p><a href="http://www.benitomenni.org/">
+<img src="http://localhost:4000/images/benitomenni.png" class=" img-responsive" />
+</a></p>
+</div>
+
+<div class="col-md-6">
+  <p><a href="https://www.itap.uva.es/">
+<img src="http://localhost:4000/images/logo_itap_grande.jpg" class=" img-responsive" />
+</a></p>
+</div>
+<div class="col-md-6">
+  <p><a href="http://www.gib.tel.uva.es/">
+<img src="http://localhost:4000/images/GIB_Header.png" class=" img-responsive" />
+</a></p>
+</div>
+:ET
