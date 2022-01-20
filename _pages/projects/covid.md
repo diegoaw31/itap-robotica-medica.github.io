@@ -15,6 +15,8 @@ permalink: /projects/covid
 <b>Participating entity:</b>  University of Valladolid: ITAP Research Institute and Biomedical Engineering Group. "Benito Menni" Hospital Center (Valladolid - Spain).  
 <b>Duration:</b> September-2021 - December-2022  
 
+Project co-financed by the ERDF, Thematic Objective 1, which promotes technological development, innovation and quality research.
+
 ---
 
 Many of the people who have suffered from the COVID-19 disease see their quality of life considerably reduced. These are people who continue to present clinical manifestations 

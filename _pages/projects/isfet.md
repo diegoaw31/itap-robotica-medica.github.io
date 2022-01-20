@@ -15,6 +15,8 @@ permalink: /projects/isfet
 <b>Participating entity:</b>  University of Valladolid: ITAP Research Institute, Chemical Transducers Group (CSIC-Barcelona).  
 <b>Duration:</b> January 2020 – September 2022  
 
+Project co-financed by the ERDF, Thematic Objective 1, which promotes technological development, innovation and quality research.
+
 ---
 
 The main objective of this project is to research and design a novel electronic device that leverages ISFET sensor to study variables and chemical characteristics 
