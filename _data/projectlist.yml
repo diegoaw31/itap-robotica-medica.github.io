@@ -67,15 +67,15 @@
     "
   url: "robhand"
   
-- title: "Robotic Device for Terminal Grip (End-Effector) for Neuro-Rehabilitation of Higher Members, with Active Therapies, Self-Adapted to the Needs of Each Patient (E2REBOT)"
-  image: "e2rebot.png"
-  description: 
-    "
-    The main objective of the project is the creation, development, implantation and clinical tests of a new prototype of intelligent robotic device, with a terminal grip (“end-effector” in Anglo-Saxon
-    terminology), for neuro-rehabilitation of the upper limbs, in patients with Acquired brain damage. This robot will allow the realization of auto-adapted neuro-rehabilitation therapies “on-line” to
-    the needs of each patient (paradigm “assistance as needed”), through control strategies based on haptic, physiological and visual feedback.
-    "
-  url: "e2rebot"
+#  - title: "Robotic Device for Terminal Grip (End-Effector) for Neuro-Rehabilitation of Higher Members, with Active Therapies, Self-Adapted to the Needs of Each Patient (E2REBOT)"
+#    image: "e2rebot.png"
+#    description: 
+#      "
+#      The main objective of the project is the creation, development, implantation and clinical tests of a new prototype of intelligent robotic device, with a terminal grip (“end-effector” in Anglo-Saxon
+#      terminology), for neuro-rehabilitation of the upper limbs, in patients with Acquired brain damage. This robot will allow the realization of auto-adapted neuro-rehabilitation therapies “on-line” to
+#      the needs of each patient (paradigm “assistance as needed”), through control strategies based on haptic, physiological and visual feedback.
+#      "
+#    url: "e2rebot"
   
 - title: "Robotic System for Endonasal Endoscopic Neurosurgery"
   image: "endonasal.jpg"
@@ -101,24 +101,24 @@
     "
   url: "hals"
   
-- title: "Hiper-Redundant Robot for Technical Assistance Notes / SILS"
-  image: "sils.png"
-  description: 
-    "
-    This project addresses the development of new robotic tools useful for the two types of techniques named above and that cover both the preoperative and the intraoperative. Specifically, the design and 
-    development of a robotic platform capable of placing inside the abdominal cavity a micro-robot equipped with sensors and surgical tools that work collaboratively with the surgeon is undertaken. The system
-    is programmed offline to establish the master plan during the intervention and intraoperatively through a multi-modal person-machine interface. On the other hand, the robotic system consists of two
-    positioning arms and a micro robot, so that the first two, through the use of magnetic fields, will displace and locate the third in the operative field inside the abdomen. As a configuration of one of the 
-    positioning robotic arms, a hyper-redundant structure has been considered that will hold the micro-robot at its end to enter the interior of the abdominal cavity. The micro-robot will be able to detach from 
-    the hyper-redundant structure, and by means of the other positioning arm, which will have a standard configuration, it will move from the outside of the abdominal wall through the use of a magnetic field. 
-    The micro-robot can deploy small arms in which cameras, touch sensors, light sources or small surgical tools will be located.
-    "
-  url: "hiperredundant"
+#  - title: "Hiper-Redundant Robot for Technical Assistance Notes / SILS"
+#    image: "sils.png"
+#    description: 
+#      "
+#      This project addresses the development of new robotic tools useful for the two types of techniques named above and that cover both the preoperative and the intraoperative. Specifically, the design and 
+#      development of a robotic platform capable of placing inside the abdominal cavity a micro-robot equipped with sensors and surgical tools that work collaboratively with the surgeon is undertaken. The system
+#      is programmed offline to establish the master plan during the intervention and intraoperatively through a multi-modal person-machine interface. On the other hand, the robotic system consists of two
+#      positioning arms and a micro robot, so that the first two, through the use of magnetic fields, will displace and locate the third in the operative field inside the abdomen. As a configuration of one of the 
+#      positioning robotic arms, a hyper-redundant structure has been considered that will hold the micro-robot at its end to enter the interior of the abdominal cavity. The micro-robot will be able to detach from 
+#      the hyper-redundant structure, and by means of the other positioning arm, which will have a standard configuration, it will move from the outside of the abdominal wall through the use of a magnetic field. 
+#      The micro-robot can deploy small arms in which cameras, touch sensors, light sources or small surgical tools will be located.
+#      "
+#    url: "hiperredundant"
   
-- title: "Robotized System for the Regulation of Assistance in Rehabilitation Tasks of Higher Members, Using Physiological Signsof the Autonomous Patient Nervous System"
-  image: "assistance.png"
-  description: 
-    "
-
-    "
-  url: "robotizedassistance"
+#  - title: "Robotized System for the Regulation of Assistance in Rehabilitation Tasks of Higher Members, Using Physiological Signsof the Autonomous Patient Nervous System"
+#    image: "assistance.png"
+#    description: 
+#      "
+#  
+#      "
+#    url: "robotizedassistance"
