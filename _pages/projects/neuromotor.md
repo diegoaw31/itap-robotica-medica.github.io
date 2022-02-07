@@ -31,7 +31,7 @@ On the other hand, and in order to facilitate its entry into the market, the pla
 
 <div class="col-md-12">
 <a href="https://www.ciencia.gob.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia.png"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia_innovacion.jpg"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:50%;"/>
 </a>
 </div>
 

@@ -33,7 +33,7 @@ In this project, techniques and methodologies for the accomplishment of collabor
 
 <div class="col-md-6">
 <a href="https://portal.mineco.gob.es/es-es/Paginas/default.aspx">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_economia.png"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_economia_competitividad.jpg"  class=" img-responsive" />
 </a>
 </div>
 

@@ -28,7 +28,7 @@ A human-robot interaction system will manage the different modes of robot system
 
 <div class="col-md-6">
 <a href="https://www.ciencia.gob.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia_universidades.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia_innovacion.jpg"  class=" img-responsive" />
 </a>
 </div>
 
