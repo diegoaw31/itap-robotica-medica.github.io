@@ -1,4 +1,4 @@
-I"Ù<p><br /></p>
+I"Ÿ<p><br /></p>
 <h3 id="platform-for-neuromotor-and-cognitive-rehabilitation-through-active-therapies-in-people-who-have-suffered-a-cerebrovascular-accident-m3rob-mind-hand-wrist-robot">Platform for Neuromotor and Cognitive Rehabilitation Through Active Therapies in People who have Suffered a Cerebrovascular Accident M3Rob (Mind-Hand-Wrist-Robot)</h3>
 
 <p><b>Funding Entity:</b> Ministry of Science and Innovation of Spain.<br />
@@ -27,30 +27,34 @@
 </a></p>
 </div>
 
-<div class="col-md-4">
-  <p><a href="">
-<img src="http://localhost:4000/images/ticcyl.png" class=" img-responsive" />
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+  <div class="col-md-4">
+    <p><a href="">
+<img src="http://localhost:4000/images/ticcyl_short.png" class=" img-responsive" />
 </a></p>
-</div>
-<div class="col-md-4">
-  <p><a href="http://www.uva.es/">
+  </div>
+  <div class="col-md-4">
+    <p><a href="http://www.uva.es/">
 <img src="http://localhost:4000/images/uva.png" class=" img-responsive" />
 </a></p>
-</div>
-<div class="col-md-4">
-  <p><a href="http://www.benitomenni.org/">
+  </div>
+  <div class="col-md-4">
+    <p><a href="http://www.benitomenni.org/">
 <img src="http://localhost:4000/images/benitomenni.png" class=" img-responsive" />
 </a></p>
+  </div>
 </div>
 
-<div class="col-md-6">
-  <p><a href="https://www.itap.uva.es/">
+<div style="display:block;margin-left:auto;margin-right:auto;width:60%;">
+  <div class="col-md-6">
+    <p><a href="https://www.itap.uva.es/">
 <img src="http://localhost:4000/images/logo_itap_grande.jpg" class=" img-responsive" />
 </a></p>
-</div>
-<div class="col-md-6">
-  <p><a href="http://www.gib.tel.uva.es/">
+  </div>
+  <div class="col-md-6">
+    <p><a href="http://www.gib.tel.uva.es/">
 <img src="http://localhost:4000/images/GIB_Header.png" class=" img-responsive" />
 </a></p>
+  </div>
 </div>
 :ET

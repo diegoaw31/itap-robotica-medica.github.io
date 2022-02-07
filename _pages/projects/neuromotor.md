@@ -35,9 +35,10 @@ On the other hand, and in order to facilitate its entry into the market, the pla
 </a>
 </div>
 
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
 <div class="col-md-4">
 <a href="">
-<img src="{{ site.url }}{{ site.baseurl }}/images/ticcyl.png"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/ticcyl_short.png"  class=" img-responsive" />
 </a>
 </div>
 <div class="col-md-4">
@@ -50,7 +51,9 @@ On the other hand, and in order to facilitate its entry into the market, the pla
 <img src="{{ site.url }}{{ site.baseurl }}/images/benitomenni.png"  class=" img-responsive" />
 </a>
 </div>
+</div>
 
+<div style="display:block;margin-left:auto;margin-right:auto;width:60%;">
 <div class="col-md-6">
 <a href="https://www.itap.uva.es/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logo_itap_grande.jpg"  class=" img-responsive" />
@@ -60,4 +63,5 @@ On the other hand, and in order to facilitate its entry into the market, the pla
 <a href="http://www.gib.tel.uva.es/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/GIB_Header.png"  class=" img-responsive" />
 </a>
+</div>
 </div>

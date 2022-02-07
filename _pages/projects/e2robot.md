@@ -28,6 +28,24 @@ Visual feedback is one of the strengths of this project: It consists of highly m
 
 ---
 
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+
+<div class="col-md-6">
+<a href="https://www.cdti.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.jpg"  class=" img-responsive" />
+</a>
+</div>
+
+<div class="col-md-6">
+<a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
+</a>
+</div>
+
+</div>
+
+<div style="display:block;margin-left:auto;margin-right:auto;width:60%;">
+
 <div class="col-md-6">
 <a href="https://www.aplifisa.com/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/aplifisa.png" class=" img-responsive" />
@@ -40,14 +58,4 @@ Visual feedback is one of the strengths of this project: It consists of highly m
 </a>
 </div>
 
-<div class="col-md-6">
-<a href="https://www.cdti.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.jpg"  class=" img-responsive" />
-</a>
-</div>
-
-<div class="col-md-6">
-<a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
-</a>
 </div>

@@ -54,6 +54,8 @@ with patients. The Rehabilitation Unit of the Benito Menni Hospital Center in Va
 </a>
 </div>
 
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+
 <div class="col-md-4">
 <a href="https://empresas.jcyl.es/web/es/empresas-castilla-leon.html">
 <img src="{{ site.url }}{{ site.baseurl }}/images/ICE.png"  class=" img-responsive" />
@@ -70,6 +72,10 @@ with patients. The Rehabilitation Unit of the Benito Menni Hospital Center in Va
 </a>
 </div>
 
+</div>
+
+<div style="display:block;margin-left:auto;margin-right:auto;width:60%;">
+
 <div class="col-md-6">
 <a href="http://www.benitomenni.org/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/benitomenni.png"  class=" img-responsive" />
@@ -79,4 +85,6 @@ with patients. The Rehabilitation Unit of the Benito Menni Hospital Center in Va
 <a href="https://www.itap.uva.es/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logo_itap_center.jpg"  class=" img-responsive"/>
 </a>
+</div>
+
 </div>

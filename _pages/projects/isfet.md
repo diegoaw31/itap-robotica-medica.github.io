@@ -51,6 +51,8 @@ Project Objectives
 </a>
 </div>
 
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+
 <div class="col-md-4">
 <a href="https://empresas.jcyl.es/web/es/empresas-castilla-leon.html">
 <img src="{{ site.url }}{{ site.baseurl }}/images/ICE.png"  class=" img-responsive" />
@@ -67,6 +69,10 @@ Project Objectives
 </a>
 </div>
 
+</div>
+
+<div style="display:block;margin-left:auto;margin-right:auto;width:60%;">
+
 <div class="col-md-6">
 <a href="http://gtq.imb-cnm.csic.es/en">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gtq.jpg"  class=" img-responsive" />
@@ -76,4 +82,6 @@ Project Objectives
 <a href="https://www.itap.uva.es/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logo_itap_center.jpg"  class=" img-responsive"/>
 </a>
+</div>
+
 </div>

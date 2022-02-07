@@ -25,6 +25,7 @@ The project that is being developed studies the extension of the concept of robo
 The robotic system that is developed, fruit of the proposed research, will follow an open and scalable platform concept, so that it will be validated by in-vitro experiments that emulate a neurosurgery intervention by endonasal approach.
 
 ---
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
 
 <div class="col-md-6">
 <a href="https://portal.mineco.gob.es/es-es/Paginas/default.aspx">
@@ -36,4 +37,6 @@ The robotic system that is developed, fruit of the proposed research, will follo
 <a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
 </a>
+</div>
+
 </div>

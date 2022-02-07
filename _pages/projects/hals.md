@@ -29,6 +29,7 @@ The system recognizes the current phase of the intervention through the use of t
 In this project, techniques and methodologies for the accomplishment of collaborative movements with laparoscopic instruments that contemplate both position control and forces to assist in maneuvers of knotting, clipping and cauterization, among others, were addressed. Secondly, the problem of detection of HALS surgical gestures was addressed, which together with the integration with information of the physiological signals, will help to identify the current phase of the intervention. In addition, as a third component, methods were developed to emulate the concept of "transparent abdomen" through the use of personalized virtual models of the patient, the use of a vision system consisting of an endoscope and mini-robot cameras, and information from the glove.
 
 ---
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
 
 <div class="col-md-6">
 <a href="https://portal.mineco.gob.es/es-es/Paginas/default.aspx">
@@ -40,4 +41,6 @@ In this project, techniques and methodologies for the accomplishment of collabor
 <a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
 </a>
+</div>
+
 </div>

@@ -1,4 +1,4 @@
-I"]<p><br /></p>
+I"!<p><br /></p>
 <h3 id="development-and-clinical-trials-of-a-rehabilitation-platform-to-accelerate-the-recovery-of-patients-with-neuromotor-sequelae-caused-by-covid">Development and Clinical Trials of a Rehabilitation Platform to Accelerate the Recovery of Patients with Neuromotor Sequelae Caused by COVID</h3>
 
 <p><b>Funding Entity:</b> ADE (Agencia de Desarrollo Económico), Junta de Castilla y León (Spain).<br />
@@ -46,30 +46,38 @@ with patients. The Rehabilitation Unit of the Benito Menni Hospital Center in Va
 </a></p>
 </div>
 
-<div class="col-md-4">
-  <p><a href="https://empresas.jcyl.es/web/es/empresas-castilla-leon.html">
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+
+  <div class="col-md-4">
+    <p><a href="https://empresas.jcyl.es/web/es/empresas-castilla-leon.html">
 <img src="http://localhost:4000/images/ICE.png" class=" img-responsive" />
 </a></p>
-</div>
-<div class="col-md-4">
-  <p><a href="">
+  </div>
+  <div class="col-md-4">
+    <p><a href="">
 <img src="http://localhost:4000/images/ticcyl_short.png" class=" img-responsive" />
 </a></p>
-</div>
-<div class="col-md-4">
-  <p><a href="http://www.uva.es/">
+  </div>
+  <div class="col-md-4">
+    <p><a href="http://www.uva.es/">
 <img src="http://localhost:4000/images/uva.png" class=" img-responsive" />
 </a></p>
+  </div>
+
 </div>
 
-<div class="col-md-6">
-  <p><a href="http://www.benitomenni.org/">
+<div style="display:block;margin-left:auto;margin-right:auto;width:60%;">
+
+  <div class="col-md-6">
+    <p><a href="http://www.benitomenni.org/">
 <img src="http://localhost:4000/images/benitomenni.png" class=" img-responsive" />
 </a></p>
-</div>
-<div class="col-md-6">
-  <p><a href="https://www.itap.uva.es/">
+  </div>
+  <div class="col-md-6">
+    <p><a href="https://www.itap.uva.es/">
 <img src="http://localhost:4000/images/logo_itap_center.jpg" class=" img-responsive" />
 </a></p>
+  </div>
+
 </div>
 :ET
