@@ -35,7 +35,7 @@
 
 - name: Ana Cisnal
   photo: acr.jpg
-  info: PhD student, Hired Researcher
+  info: PhD student, Research Associate
   email: milan.allan@gmail.com
   number_educ: 3
   education1: <a href="https://orcid.org/0000-0002-1556-7179">Link to ORCID</a>
@@ -44,7 +44,7 @@
   
 - name: Lidia Santos
   photo: ls.jpg
-  info: PhD student, Hired Researcher
+  info: PhD student
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
@@ -58,7 +58,7 @@
 
 - name: David sierra
   photo: ds.jpg
-  info: PhD student, Hired Researcher
+  info: PhD student, Research Associate
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
@@ -72,28 +72,28 @@
 
 - name: Gonzalo Alonso Alonso de Linaje
   photo: gaal.jpg
-  info: Master Student, Hired Researcher
+  info: Master Student, Research Assistant
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
 
 - name: Guillermo Sánchez Brizuela
   photo: gsb.jpg
-  info: Master Student, Hired Researcher
+  info: Master Student, Research Assistant
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
 
 - name: Carlos Fontúrbel Mediavilla
   photo: cfm.jpg
-  info: Master Student, Hired Researcher
+  info: Master Student, Research Assistant
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
 
 - name: Diego de las Heras Rebellón
   photo: dhr.png
-  info: Hired Researcher
+  info: Research Assistant
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
