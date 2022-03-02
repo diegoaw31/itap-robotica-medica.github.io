@@ -14,6 +14,7 @@ permalink: /projects/neuromotor
 <b>Responsible company:</b> Ticcyl Digital S.L. (Salamanca - Spain).  
 <b>Participating entity:</b>  University of Valladolid: ITAP Research Institute y Biomedical Engineering Group. "Benito Menni" Hospital Center (Valladolid - Spain).  
 <b>Duration:</b> 01-September-2020 - 31-December-2023  
+<b>Official project webpage:</b> <a href="http://www.gib.tel.uva.es/m3rob/#">http://www.gib.tel.uva.es/m3rob/</a>  
 
 ---
 
