@@ -1,5 +1,5 @@
 ---
-title: "ITAP Medical Robotics - Home"
+title: "ITAP Medical Robotics - Home - Robótica Médica"
 layout: homelay
 excerpt: "ITAP Medical Robotics at University of Valladolid."
 sitemap: false
@@ -7,11 +7,16 @@ permalink: /
 ---
 
 
-[ITAP (Institute of Advanced Production Technologies)](https://www.itap.uva.es/) is a university research institute of the University of Valladolid, formed by more than 28 research professors from different areas of knowledge of the Faculty of Engineering and the Faculty of Medicine, of the University of Valladolid. 
 
-ITAP also collaborates with researchers from the CARTIF Foundation technology center, doctors from the University Clinical Hospital of Valladolid and the Rio Hortega University Hospital in Valladolid. All of them collaborate in tasks in the field of control engineering and medical engineering, combining the work of research with technology transfer and teachers.
+[ITAP (Institute of Advanced Production Technologies)](https://www.itap.uva.es/) is an university research institute of the University of Valladolid, formed by more than 28 research professors from different areas of knowledge of the Faculty of Engineering and the Faculty of Medicine of the University of Valladolid. 
+We are one of the groups of this institute and focus our research in medical robotics. More specifically, we study rehabilitation robotics and collaborative and autonomous surgery. You can learn more about our Research lines [here](/research).
 
-The research group in Biomedical Engineering of the ITAP Research Institute is made up of professors from the Department of Systems Engineering and Automation of the Faculty of Engineering of the University of Valladolid. The components of this research group have been working in the area of ​​robotics since 1990.
+Our group is composed of professor from the Department of Systems Engineering and Automation of the Faculty of Engineering of the University of Valladolid who have been working in the area of robotics since 1990, 
+as well as PhD and Master students. Additionally, we closely collaborate with other research groups, such as the Biomedical Engineering Group of the University of Valladolid, the Medical Robotics Group of the University of
+Malaga, and the Neuroengineering Biomedical Group from the Miguel Hernandez University of Elche. We also collaborate with different clinical facilities including the Hospital center Benito Menni (Valladolid, Spain), 
+La Fuenfria Hospital (Madrid, Spain), Club de Leones Cruz del Sur Rehabilitation Corporation (Chile) and the University Clinical Hospital (Valladolid, Spain).
+
+We are located in the Faculty of Engineering of the University of Valladolid (Mergelina building). Full contact info is available in the [Contact page](/contact).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
