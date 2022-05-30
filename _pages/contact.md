@@ -14,7 +14,7 @@ Tel. +34-983-423355
 jcfraile@eii.uva.es
 </p>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/eii_outside.jpg" alt="EII" style="width:100%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/contpic/eii_outside.jpg" alt="EII" style="width:100%;">
 
 <p style="font-weight: bold;font-size:x-large;clear:both;">
 Paseo Prado de la Magdalena, 3-5, 47011 Valladolid (Spain)

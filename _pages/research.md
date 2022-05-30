@@ -12,7 +12,7 @@ Research in medical robotics and rehabilitation robotics within the medical robo
 
 ## Rehabilitation robotics
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/exoesqueleto3.jpg" class="img-responsive" width="50%" style="float: left; padding-right:15px" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/exoesqueleto3.jpg" class="img-responsive" width="50%" style="float: left; padding-right:15px" />
 
 Design, control and manufacture of robotic devices for rehabilitation tasks of upper limbs in people with neuromotor disability. In this line of research, mechatronic robot-assisted exercise devices are developed that significantly improve the success rate in neurological rehabilitation therapy to relearn the movement abilities of the upper limbs (arm and hand). Neurological rehabilitation treatment to relearn movement capabilities after a stroke, paraplegia or traumatic brain injury is based on intensive movement therapy over a period of several weeks and months, sometimes even years. This therapy helps patients to relearn the daily movements of arms and hands. The arms and hands are guided repeatedly in natural movements so that the healthy areas of the brain can learn successively to control the paralyzed limbs. Robot-assisted therapy exercise devices can relieve therapists of heavy, monotonous physical work, while increasing the intensity of patient therapy. Clinical studies in patients treated with robotic-assisted therapy exercise devices show a greatly improved success rate compared to patients treated with conventional therapy.
 
@@ -22,7 +22,7 @@ In this line of research, we collaborate very actively with: the rehabilitation 
 
 ## Laparoscopic surgery
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/endonasal_robot.jpg" class="img-responsive" width="50%" style="float: right; padding-left:15px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/endonasal_robot.jpg" class="img-responsive" width="50%" style="float: right; padding-left:15px"/>
 
 Design and control of robotic assistants for minimally invasive surgery. This type of surgery is performed with instruments and visualization equipment inserted 
 into the body through small incisions created by the surgeon, unlike open surgery with large incisions. This minimizes surgical trauma and damage to healthy tissues, 

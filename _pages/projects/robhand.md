@@ -19,7 +19,7 @@ permalink: /projects/robhand
 
 This project aims to develop RobHand robot, a new robot for hand rehabilitation, through active therapies, for patients who have neuromotor disability due to a Vascular Brain Accident. It is an exoskeleton type robot, conceived to provide active therapies related to the rehabilitation of hand grip and pronation / supination of the forearm. This robotic device will allow the development of adequate motor control to achieve a "fine" manipulation of the objects, adapted to the different grip strategies that each patient can implement. The aim of this new design is to provide a more complete rehabilitation platform, adaptable to patients with a greater number of deficiencies thanks to an improvement in several areas: improvement in the mechanical structure, making it "transparent", improving control haptic to provide assistance tailored to the needs of the patient, improving the design and implementation of virtual environments for therapies, so that they are motivating and friendly.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/robhand_project.png" class="img-responsive" width="100%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/inside/robhand_triple.png" class="img-responsive" width="100%" />
 
 The specific objectives of the project are:
 
@@ -43,18 +43,18 @@ The specific objectives of the project are:
 
 <div class="col-md-4">
 <a href="">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logoCyLRojo.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cylid.jpg"  class=" img-responsive" />
 </a>
 </div>
 
 <div class="col-md-4">
 <a href="https://www.cdti.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cdti.jpg"  class=" img-responsive" />
 </a>
 </div>
 
 <div class="col-md-4">
 <a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/feder.jpg"  class=" img-responsive" />
 </a>
 </div>

@@ -1,6 +1,7 @@
-# - title: "Project name"
-#   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-#   url: https://www.nature.com/articles/s41567-018-0300-z
+# - title: <Project name>
+#   image: <image.png>
+#   description: <Descripcion>
+#   url: <page name>
 
 - title: "Development and Clinical Trials of a Rehabilitation Platform to Accelerate the Recovery of Patients with Neuromotor Sequelae Caused by COVID"
   image: "covid.jpg"

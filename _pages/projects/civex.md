@@ -28,7 +28,7 @@ To achieve this general objective it will be necessary the daily work of the tea
 
 The purpose of this project is the development of a new animal management system that can be implemented in the beef cattle sector of extensive, national, European and international, which is placed at the forefront of the new livestock (livestock 4.0 or livestock precision), responding to the need to optimize the processes in animal management, not only in countries of our European environment, but also in countries as technologically advanced as Japan, or large producers of meat in an extensive nature such as Argentina or Colombia.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/civex_project.jpg" class="img-responsive" width="100%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/inside/civex_triple.jpg" class="img-responsive" width="100%" />
 
 The implementation of this project will provide the beef cattle sector with extensive a set of advantages such as:
 
@@ -43,12 +43,12 @@ The implementation of this project will provide the beef cattle sector with exte
 
 <div class="col-md-6">
 <a href="https://www.cdti.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cdti.jpg"  class=" img-responsive" />
 </a>
 </div>
 <div class="col-md-6">
 <a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/feder.jpg"  class=" img-responsive" />
 </a>
 </div>
 
@@ -58,12 +58,12 @@ The implementation of this project will provide the beef cattle sector with exte
 
 <div class="col-md-6">
 <a href="https://www.aplifisa.com/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/aplifisa.png" class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aplifisa.png" class=" img-responsive" />
 </a>
 </div>
 <div class="col-md-6">
 <a href="https://www.copasa.org/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/copasa.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/copasa.jpg"  class=" img-responsive" />
 </a>
 </div>
 

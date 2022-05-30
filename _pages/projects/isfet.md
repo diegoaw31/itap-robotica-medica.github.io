@@ -47,7 +47,7 @@ Project Objectives
 
 <div class="col-md-12">
 <a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:40%;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/feder.jpg"  class=" img-responsive" style="display:block;margin-left:auto;margin-right:auto;width:40%;"/>
 </a>
 </div>
 
@@ -55,17 +55,17 @@ Project Objectives
 
 <div class="col-md-4">
 <a href="https://empresas.jcyl.es/web/es/empresas-castilla-leon.html">
-<img src="{{ site.url }}{{ site.baseurl }}/images/ICE.png"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ice.png"  class=" img-responsive" />
 </a>
 </div>
 <div class="col-md-4">
 <a href="">
-<img src="{{ site.url }}{{ site.baseurl }}/images/ticcyl_short.png"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ticcyl.png"  class=" img-responsive" />
 </a>
 </div>
 <div class="col-md-4">
 <a href="http://www.uva.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/uva.png"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uva.png"  class=" img-responsive" />
 </a>
 </div>
 
@@ -75,12 +75,12 @@ Project Objectives
 
 <div class="col-md-6">
 <a href="http://gtq.imb-cnm.csic.es/en">
-<img src="{{ site.url }}{{ site.baseurl }}/images/gtq.jpg"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gtq.jpg"  class=" img-responsive" />
 </a>
 </div>
 <div class="col-md-6">
 <a href="https://www.itap.uva.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_itap_center.jpg"  class=" img-responsive"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/itap_center.jpg"  class=" img-responsive"/>
 </a>
 </div>
 
