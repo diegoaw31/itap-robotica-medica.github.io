@@ -20,7 +20,7 @@ This line of research is developed through projects with the companies CyL ImasD
 
 In this line of research, we collaborate very actively with: the rehabilitation service of the University Clinical Hospital of Valladolid, directed by Dr. Emilio J. Barajas; the Benito Menni Hospital Center (Valladolid, Spain) Rehabilitation Unit under the management of Dr. Socorro Martínez; La Fuenfria Hospital Center (Cercedilla, Madrid) and the Biomedical Engineering Group of the University Group, directed by Dr. Roberto Horneros.
 
-## Laparoscopic surgery
+## Robotic assisted surgery
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/endonasal_robot.jpg" class="img-responsive" width="50%" style="float: right; padding-left:15px"/>
 
