@@ -65,7 +65,7 @@ permalink: /publications/
 
   {% if publi.type == "journal" %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a target="_blank" href="{{ publi.link.url | replace: '!!baseurl!!', site.url }}">{{ publi.link.display }}</a>
   {% endif %}
 
 {% endfor %}
@@ -76,7 +76,7 @@ permalink: /publications/
 
   {% if publi.type == "congress" %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a target="_blank" href="{{ publi.link.url | replace: '!!baseurl!!', site.url }}">{{ publi.link.display }}</a>
   {% endif %}
 
 {% endfor %}

@@ -10,6 +10,16 @@
 #   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
 #   news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
 
+- title: "Segmentación Semántica de Elementos Mecánicas en Entornos Aumentados de Rehabilitación"
+  type: congress
+  image: dummy.png
+  description: ""
+  authors: Sanchez-Brizuela, G., Sierra, D., de la Fuente, E., Fraile, J. C., Pérez-Turiel, J.
+  link:
+    url: "!!baseurl!!/downloads/actas_jreb22_malaga.pdf"
+    display: (2022) XII Jornadas Nacionales de Robótica, pp. 221-227, Universidad de Málaga
+  highlight: 0
+
 - title: "Gauze Detection and Segmentation in Minimally Invasive Surgery Video Using Convolutional Neural Networks"
   type: journal
   image: dummy.png
