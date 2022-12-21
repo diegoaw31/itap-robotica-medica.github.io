@@ -11,8 +11,6 @@ permalink: /
 [ITAP (Institute of Advanced Production Technologies)](https://www.itap.uva.es/) is an university research institute of the University of Valladolid, formed by more than 28 research professors from different areas of knowledge of the Faculty of Engineering and the Faculty of Medicine of the University of Valladolid. 
 We are one of the groups of this institute and focus our research in medical robotics. More specifically, we study rehabilitation robotics and collaborative and autonomous surgery. You can learn more about our Research lines [here](/research).
 
-PRUEBA
-
 Our group is composed of professor from the Department of Systems Engineering and Automation of the Faculty of Engineering of the University of Valladolid who have been working in the area of robotics since 1990, 
 as well as PhD and Master students. Additionally, we closely collaborate with other research groups, such as the Biomedical Engineering Group of the University of Valladolid, the Medical Robotics Group of the University of
 Malaga, and the Neuroengineering Biomedical Group from the Miguel Hernandez University of Elche. We also collaborate with different clinical facilities including the Hospital center Benito Menni (Valladolid, Spain), 
