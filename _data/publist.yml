@@ -10,6 +10,66 @@
 #   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
 #   news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
 
+- title: "A Versatile Embedded Platform for Implementation of Biocooperative Control in Upper-Limb Neuromotor Rehabilitation Scenarios"
+  type: journal
+  image: dummy.png
+  description: ""
+  authors: Cisnal, A., Antolínez, D., Turiel, J., Fraile, JC., De la Fuente, E.
+  link:
+    url: "https://ieeexplore.ieee.org/document/10097735"
+    display: (2023) IEEE Access, vol. 11, 35726 - 35736
+  highlight: 0
+  
+- title: "Interaction with a hand rehabilitation exoskeleton in emg-driven bilateral therapy: Influence of visual biofeedback on the users’ performance"
+  type: journal
+  image: dummy.png
+  description: ""
+  authors:  Cisnal, A., Gordaliza, P., Pérez Turiel, J., Fraile, JC.
+  link:
+    url: "https://www.mdpi.com/1424-8220/23/4/2048"
+    display: (2023) Sensors 23 (4), 2048
+  highlight: 0
+  
+- title: "Force-based control strategy for a collaborative robotic camera holder in laparoscopic surgery using pivoting motion"
+  type: journal
+  image: dummy.png
+  description: ""
+  authors: Fontúrbel, C., Cisnal, A., Fraile-Marinero, JC., Pérez-Turiel, J.
+  link:
+    url: "https://pubmed.ncbi.nlm.nih.gov/37138844/"
+    display: (2023) Apr 17, Frontiers in Robotics and AI, vol. 10, 1145265.
+  highlight: 0
+
+- title: "Hand rehabilitation based on the RobHand exoskeleton in stroke patients: A case series study"
+  type: journal
+  image: dummy.png
+  description: ""
+  authors: Barria, P., Riquelme, M., Reppich, H., Cisnal, A., Fraile, JC., Pérez-Turiel, J., Sierra, D., Aguilar, R., Andrade, A., Nuñez-Espinosa, C.
+  link:
+    url: "https://pubmed.ncbi.nlm.nih.gov/37033674/"
+    display: (2023) Mar 22, Frontiers in Robotics and AI, vol. 10, 1146018.
+  highlight: 0
+  
+- title: "An Overview of M3Rob, a Robotic Platform for Neuromotor and Cognitive Rehabilitation Using Augmented Reality"
+  type: congress
+  image: dummy.png
+  description: ""
+  authors: Cisnal, A., Martínez-Cagigal, V., Alonso-Linaje, G., Moreno-Calderón, S., Pérez-Turiel, J., Hornero, R., Fraile, JC.
+  link:
+    url: "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gib.tel.uva.es/m3rob/docs/congresos/anacisnal_caseib22.pdf"
+    display: (2022) XL Congreso Anual de la Sociedad Española de Ingeniería Biomédica. 23–25 
+  highlight: 0
+
+- title: "Assessment of the Patient’s Emotional Response with the RobHand Rehabilitation Platform: A Case Series Study"
+  type: journal
+  image: dummy.png
+  description: ""
+  authors: Cisnal. A., Moreno-SanJuan, V., Fraile, JC., Turiel, J., De-la-Fuente, E., Sánchez-Brizuela, G.
+  link:
+    url: "https://www.mdpi.com/2077-0383/11/15/4442"
+    display: (2022), 11(15), 4442
+  highlight: 0
+
 - title: "Segmentación Semántica de Elementos Mecánicos en Entornos Aumentados de Rehabilitación"
   type: congress
   image: dummy.png
