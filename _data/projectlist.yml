@@ -14,7 +14,7 @@
   url: "covid"
 
 - title: "Development and Fabrication of a Laboratory Prototype of a Real Time Ground and Fluids Analysis Instrumental Device"
-  image: "isfet.jpeg"
+  image: "sinumlab.jpeg"
   description: 
     "
     The main objective of this project is to research and design a novel electronic device that leverages ISFET sensor to study variables and chemical characteristics of a substance that need to be analyzed
@@ -22,7 +22,7 @@
     real time knowledge of the previously mentioned variables. A scientifically validated chemical variable measurement device will be designed and built with the purpose of speeding up the analysis work, 
     facilitate portability from the laboratory to the field, reduce analysis costs and allow results to be known in real time, to be a benchmark in the field of chemical analysis using contact sensors in real time.
     "
-  url: "isfet"
+  url: "sinumlab"
 
 - title: "Surgical Multi-Robot Coordination - Robotic Anastomosis Competence Evaluation"
   image: "multirobot.jpg"
