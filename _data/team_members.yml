@@ -41,24 +41,10 @@
   education1: <a href="https://orcid.org/0000-0002-1556-7179">Link to ORCID</a>
   education2: <a href="https://scholar.google.com/citations?hl=en&user=V5jQOYMAAAAJ">Link to Google Scholar</a>
   education3: <a href="https://www.researchgate.net/profile/Ana-Cisnal-2">Link to ResearchGate</a>
-  
-- name: Lidia Santos
-  photo: ls.jpg
-  info: PhD student
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1: 
  
 - name: Borja Fernández Villar
   photo: bfv.png
   info: PhD student
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1: 
-
-- name: David sierra
-  photo: ds.jpg
-  info: PhD student, Research Associate
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
@@ -77,13 +63,6 @@
   number_educ: 0
   education1: <a href="https://orcid.org/0000-0001-6501-7215">Link to ORCID</a>
 
-- name: Guillermo Sánchez Brizuela
-  photo: gsb.jpg
-  info: Master Student, Research Assistant
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1: 
-
 - name: Carlos Fontúrbel Mediavilla
   photo: cfm.jpg
   info: PhD student, Research Associate
@@ -97,14 +76,7 @@
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
-
-- name: Alberto Fraile Luengo
-  photo: ajf.jpg
-  info: Laboratory Technician
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1: 
-
+  
 - name: Miguel Veganzones Parellada
   photo: 
   info: Research Associate
