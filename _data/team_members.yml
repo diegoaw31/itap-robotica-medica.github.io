@@ -84,23 +84,13 @@
   number_educ: 0
   education1: 
   
-  - name: Juan Granja Garijo
-  photo: 
-  info: Master Student
-  email: 
+  - name: Daniel Antolínez López
+  photo: dal.jpg
+  info: Master student, Research Assistant
   number_educ: 0
-  education1: 
+  education1:
   
-    - name: Diego Almendro Wieczorek
-  photo: 
-  info: Master Student
-  email: 
-  number_educ: 0
-  education1: 
+ 
   
-      - name: Daniel Antolinez López
-  photo: 
-  info: Research Assistant
-  email: 
-  number_educ: 0
-  education1: 
+
+  
