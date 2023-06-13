@@ -1,0 +1,33 @@
+- name: Lidia Santos 
+  photo: ls.jpg 
+  info: PhD student 
+  email: milan.allan@gmail.com 
+  number_educ: 0 
+  education1: 
+
+- name: David sierra 
+  photo: ds.jpg 
+  info: PhD student, Research Associate 
+  email: milan.allan@gmail.com 
+  number_educ: 0 
+  education1: 
+
+- name: Guillermo Sánchez Brizuela 
+  photo: gsb.jpg 
+  info: Master Student, Research Assistant 
+  email: milan.allan@gmail.com 
+  number_educ: 0 
+  education1: 
+
+- name: Alberto Fraile Luengo 
+  photo: ajf.jpg 
+  info: Laboratory Technician 
+  email: milan.allan@gmail.com 
+  number_educ: 0 
+  education1: 
+
+- name: Ángel Padilla Gutiérrez 
+  photo: apg.png 
+  info: BSc student 
+  number_educ: 0 
+  education1: 
