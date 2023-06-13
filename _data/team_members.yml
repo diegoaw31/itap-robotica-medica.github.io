@@ -1,6 +1,6 @@
 - name: Juan-Carlos Fraile
   photo: jcf.jpg
-  info: Associate professor, PhD Control Engineer
+  info: Associate professor, PhDD Control Engineering
   email: milan.allan@gmail.com
   number_educ: 5
   education1: <a href="https://www.eii.uva.es/~jcfraile/">Website</a>
@@ -11,7 +11,7 @@
 
 - name: Javier Pérez-Turiel
   photo: jpt.png
-  info: Associate professor, PhD Control Engineer
+  info: Associate professor, PhDD Control Engineering
   email: milan.allan@gmail.com
   number_educ: 3
   education1: <a href="https://orcid.org/0000-0002-7731-2411">Link to ORCID</a>
@@ -23,15 +23,17 @@
   info: Associate professor, PhD Control Engineer
   email: milan.allan@gmail.com
   number_educ: 2
-  education1: <a href="https://scholar.google.com/citations?user=DXn1IyEAAAAJ&hl=en">Link to Google Scholar</a>
-  education2: <a href="https://www.researchgate.net/profile/Eusebio-Fuente-Lopez">Link to ResearchGate</a>
+  education1: <a href="https://orcid.org/0000-0001-5837-3510">Link to ORCID</a>
+  education2: <a href="https://scholar.google.com/citations?user=DXn1IyEAAAAJ&hl=en">Link to Google Scholar</a>
+  education3: <a href="https://www.researchgate.net/profile/Eusebio-Fuente-Lopez">Link to ResearchGate</a>
 
 - name: José-Luis González-Sánchez
   photo: jlgs.jpg
   info: Associate professor, PhD Control Engineer
   email: milan.allan@gmail.com
   number_educ: 1
-  education1: <a href="https://www.researchgate.net/profile/Jose-Gonzalez-Sanchez-2">Link to ResearchGate</a>
+  education1: <a href="https://orcid.org/0000-0001-5397-3701">Link to ORCID</a>
+  education2: <a href="https://www.researchgate.net/profile/Jose-Gonzalez-Sanchez-2">Link to ResearchGate</a>
 
 - name: Ana Cisnal
   photo: acr.jpg
@@ -47,8 +49,9 @@
   info: PhD student
   email: milan.allan@gmail.com
   number_educ: 0
-  education1: 
-
+  education1: <a href="https://orcid.org/0000-0003-0090-3800">Link to ORCID</a>
+  education2: <a href="https://scholar.google.es/citations?user=ipBfmuQAAAAJ&hl=es">Link to Google Scholar</a>
+  
 - name: Víctor Moreno San Juan
   photo: vmsj.jpg
   info: PhD student
