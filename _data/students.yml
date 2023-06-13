@@ -8,18 +8,6 @@
 #  education3:
 #  education4:
 
-- name: Ángel Padilla Gutiérrez
-  photo: apg.png
-  info: BSc student
-  number_educ: 0
-  education1:
-
-- name: Daniel Antolínez López
-  photo: dal.jpg
-  info: Master student
-  number_educ: 0
-  education1:
-  
 - name: Eva de la Fuente García
   photo: edlf.jpg
   info: BSc student
