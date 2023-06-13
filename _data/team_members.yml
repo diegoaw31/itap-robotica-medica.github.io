@@ -72,10 +72,10 @@
 
 - name: Gonzalo Alonso Alonso de Linaje
   photo: gaal.jpg
-  info: Master Student, Research Assistant
+  info: PhD student, Research Associate
   email: milan.allan@gmail.com
   number_educ: 0
-  education1: 
+  education1: <a href="https://orcid.org/0000-0001-6501-7215">Link to ORCID</a>
 
 - name: Guillermo Sánchez Brizuela
   photo: gsb.jpg
@@ -86,7 +86,7 @@
 
 - name: Carlos Fontúrbel Mediavilla
   photo: cfm.jpg
-  info: Master Student, Research Assistant
+  info: PhD student, Research Associate
   email: milan.allan@gmail.com
   number_educ: 0
   education1: 
@@ -105,3 +105,30 @@
   number_educ: 0
   education1: 
 
+- name: Miguel Veganzones Parellada
+  photo: 
+  info: Research Associate
+  email: 
+  number_educ: 0
+  education1: 
+  
+  - name: Juan Granja Garijo
+  photo: 
+  info: Master Student
+  email: 
+  number_educ: 0
+  education1: 
+  
+    - name: Diego Almendro Wieczorek
+  photo: 
+  info: Master Student
+  email: 
+  number_educ: 0
+  education1: 
+  
+      - name: Daniel Antolinez López
+  photo: 
+  info: Research Assistant
+  email: 
+  number_educ: 0
+  education1: 
