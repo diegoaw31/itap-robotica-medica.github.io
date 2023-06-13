@@ -193,6 +193,16 @@
     display: (2020) Computer Methods and Programs in Biomedicine, 105359.
   highlight: 0
   
+  - title: Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform
+  type: journal
+  image: dummy.png
+  description: ""
+  authors: Muñoz García, Á., Rivas, I., Turiel, J., Muñoz, V., Fraile Marinero, JP., de la Fuente, E., Sabater, J.M.
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-36150-1_37
+    display: (2020) Robot 2019: Fourth Iberian Robotics Conference: Advances in Robotics, Volume 2, 453-464
+  highlight: 0
+  
 - title: Application of a Novel Measurement Setup for Characterization of Graphene Microelectrodes and a Comparative Study of Variables Influencing Charge Injection Limits of Implantable Microelectrodes
   type: journal
   image: dummy.png
