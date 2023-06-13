@@ -13,8 +13,7 @@ We are one of the groups of this institute and focus our research in medical rob
 
 Our group is composed of professor from the Department of Systems Engineering and Automation of the Faculty of Engineering of the University of Valladolid who have been working in the area of robotics since 1990, 
 as well as PhD and Master students. Additionally, we closely collaborate with other research groups, such as the Biomedical Engineering Group of the University of Valladolid, the Medical Robotics Group of the University of
-Malaga, and the Neuroengineering Biomedical Group from the Miguel Hernandez University of Elche. We also collaborate with different clinical facilities including the Hospital center Benito Menni (Valladolid, Spain), 
-La Fuenfria Hospital (Madrid, Spain), Club de Leones Cruz del Sur Rehabilitation Corporation (Chile) and the University Clinical Hospital (Valladolid, Spain).
+Malaga, and the Neuroengineering Biomedical Group from the Miguel Hernandez University of Elche. We also collaborate with different clinical facilities including the Hospital Center Benito Menni (Valladolid, Spain), La Fuenfria Hospital (Madrid, Spain), Club de Leones Cruz del Sur Rehabilitation Corporation (Chile), the University Clinical Hospital (Valladolid, Spain) and Instituto de Rehabilitación Funcional (IRF) La Salle (Madrid, Spain).
 
 We are located in the Faculty of Engineering of the University of Valladolid (Mergelina building). Full contact info is available in the [Contact page](/contact).
 
