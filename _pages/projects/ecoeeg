@@ -29,19 +29,13 @@ This project aims to address these challenges by developing an ECOEEG (Economica
 ---
 
 <div class="col-md-4">
-<a href="https://www.cartif.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/CARTIF.png"  class=" img-responsive" />
+<a href="https://www.cdti.es/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.png"  class=" img-responsive" />
 </a>
 </div>
 
 <div class="col-md-4">
-<a href="https://ec.europa.eu/regional_policy/es/funding/erdf/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/feder.jpg"  class=" img-responsive" />
-</a>
-</div>
-
-<div class="col-md-4">
-<a href="https://www.ciencia.gob.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_ciencia.png"  class=" img-responsive" />
+<a href="https://www.cyldigital.es/iniciativas-destacadas/asesorat-e-en-tic">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logoticcyl.png"  class=" img-responsive" />
 </a>
 </div>
