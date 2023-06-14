@@ -50,7 +50,7 @@
     display: (2023) Mar 22, Frontiers in Robotics and AI, vol. 10, 1146018.
   highlight: 0
 
-  - title: "An Overview of M3Rob, a Robotic Platform for Neuromotor and Cognitive Rehabilitation Using Augmented Reality"
+- title: "An Overview of M3Rob, a Robotic Platform for Neuromotor and Cognitive Rehabilitation Using Augmented Reality"
   type: congress
   image: dummy.png
   description: ""
@@ -156,7 +156,7 @@
     display: (2021) Robotics and Autonomous Systems, Volume 143, 103828.
   highlight: 0
   
-  - title: "Collaborative Robotic Assistant Platform for Endonasal Surgery: Preliminary In-Vitro Trials"
+- title: "Collaborative Robotic Assistant Platform for Endonasal Surgery: Preliminary In-Vitro Trials"
   type: journal
   image: colab_surgery.jpg
   description: "
@@ -173,7 +173,7 @@
     display: (2021) Sensors, 21(7), 2320
   highlight: 1
   
-    - title: Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand
+- title: Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand
   type: congress
   image: dummy.png
   description: ""
@@ -183,7 +183,7 @@
     display: (2021) XLII Jornadas de Automática: libro de actas, 152-159, Castellón, 1 a 3 de septiembre
   highlight: 0
   
-  - title: "Prediction of Cow Calving in Extensive Livestock Using a New Neck-Mounted Sensorized Wearable Device: A Pilot Study"
+- title: "Prediction of Cow Calving in Extensive Livestock Using a New Neck-Mounted Sensorized Wearable Device: A Pilot Study"
   type: journal
   image: dummy.png
   description: ""
@@ -193,7 +193,7 @@
     display: (2021) Sensors, 21(23), 8060
   highlight: 0
   
-  - title: Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand
+- title: Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand
   type: congress
   image: dummy.png
   description: ""
@@ -233,7 +233,7 @@
     display: (2020) Computer Methods and Programs in Biomedicine, 105359.
   highlight: 0
   
-  - title: Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform
+- title: Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform
   type: journal
   image: dummy.png
   description: ""
