@@ -90,7 +90,7 @@
     display: (2022) XII Jornadas Nacionales de Robótica, pp. 221-227, Universidad de Málaga
   highlight: 0
   
-- title: EMG-driven bilateral therapy for hand rehabilitation: Evaluation of the influence of an EMG-based visual biofeedback on the users’ performance
+- title: "EMG-driven bilateral therapy for hand rehabilitation: Evaluation of the influence of an EMG-based visual biofeedback on the users’ performance"
   type: journal
   image: dummy.png
   description: ""
@@ -100,7 +100,7 @@
     display: (2022)
   highlight: 0
   
-- title: Detección por deep learning de puntos de riesgo en la trayectoria de un asistente robotizado en cirugías endonasales transesfenoidales
+- title: "Detección por deep learning de puntos de riesgo en la trayectoria de un asistente robotizado en cirugías endonasales transesfenoidales"
   type: congress
   image: dummy.png
   description: ""
@@ -110,7 +110,7 @@
     display: (2022) XLIII Jornadas de Automática, 993-1000
   highlight: 0
   
-- title: Control de exoesqueleto de rehabilitación de mano con Leap Motion Controller
+- title: "Control de exoesqueleto de rehabilitación de mano con Leap Motion Controller"
   type: congress
   image: dummy.png
   description: ""
@@ -120,7 +120,7 @@
     display: (2022) XLIII Jornadas de Automática, 141-147
   highlight: 0
   
-- title: An Embedded Implementation of EMG-Driven Control for Assisted Bilateral Therapy
+- title: "An Embedded Implementation of EMG-Driven Control for Assisted Bilateral Therapy"
   type: congress
   image: dummy.png
   description: ""
@@ -146,7 +146,7 @@
     display: (2021) IEEE Access, vol. 9, pp. 137809-137823
   highlight: 1
   
-- title: Design and characterization of a lightweight underactuated RACA hand exoskeleton for neurorehabilitation
+- title: "Design and characterization of a lightweight underactuated RACA hand exoskeleton for neurorehabilitation"
   type: journal
   image: dummy.png
   description: ""
@@ -173,7 +173,7 @@
     display: (2021) Sensors, 21(7), 2320
   highlight: 1
   
-- title: Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand
+- title: "Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand"
   type: congress
   image: dummy.png
   description: ""
@@ -193,7 +193,7 @@
     display: (2021) Sensors, 21(23), 8060
   highlight: 0
   
-- title: Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand
+- title: "Solución integrada de control basado en EMG para la rehabilitación de terapias bilaterales en exoesqueleto de rehabilitación de mano Robhand"
   type: congress
   image: dummy.png
   description: ""
@@ -203,7 +203,7 @@
     display: (2021) XLII Jornadas de Automática, pp. 152-159, Universidade da Coruña, Servizo de Publicacións
   highlight: 0
   
-- title: A Low Cost IoT Enabled Device for the Monitoring, Recording and Communication of Physiological Signals.
+- title: "A Low Cost IoT Enabled Device for the Monitoring, Recording and Communication of Physiological Signals."
   type: congress
   image: dummy.png
   description: ""
@@ -213,7 +213,7 @@
     display: (2021) Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2021), vol. 1, pp. 135-143
   highlight: 0
   
-- title: Automatic Gauze Tracking in Laparoscopic Surgery using Image Texture Analysis
+- title: "Automatic Gauze Tracking in Laparoscopic Surgery using Image Texture Analysis"
   type: journal
   image: dummy.png
   description: ""
@@ -223,7 +223,7 @@
     display: (2020) Computer Methods and Programs in Biomedicine, 105378.
   highlight: 0
   
-- title: Influence on the user's emotional state of the graphic complexity level in virtual therapies based on a robot-assisted neuro-rehabilitation platform
+- title: "Influence on the user's emotional state of the graphic complexity level in virtual therapies based on a robot-assisted neuro-rehabilitation platform"
   type: journal
   image: dummy.png
   description: ""
@@ -233,7 +233,7 @@
     display: (2020) Computer Methods and Programs in Biomedicine, 105359.
   highlight: 0
   
-- title: Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform
+- title: "Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform"
   type: journal
   image: dummy.png
   description: ""
@@ -243,7 +243,7 @@
     display: (2020) Robot 2019: Fourth Iberian Robotics Conference: Advances in Robotics, Volume 2, 453-464
   highlight: 0
   
-- title: Application of a Novel Measurement Setup for Characterization of Graphene Microelectrodes and a Comparative Study of Variables Influencing Charge Injection Limits of Implantable Microelectrodes
+- title: "Application of a Novel Measurement Setup for Characterization of Graphene Microelectrodes and a Comparative Study of Variables Influencing Charge Injection Limits of Implantable Microelectrodes"
   type: journal
   image: dummy.png
   description: ""
@@ -263,7 +263,7 @@
     display: (2019) MDPI Electronics, 8(1), 34.
   highlight: 0
   
-- title: A measurement setup and automated calculation method to determine the charge injection capacity of implantable microelectrodes
+- title: "A measurement setup and automated calculation method to determine the charge injection capacity of implantable microelectrodes"
   type: journal
   image: dummy.png
   description: ""
@@ -273,7 +273,7 @@
     display: (2018) MDPI Sensors, 18(12), 4152.
   highlight: 0
   
-- title: Dynamic gesture recognition using a smart glove in hand-assisted laparoscopic surgery
+- title: "Dynamic gesture recognition using a smart glove in hand-assisted laparoscopic surgery"
   type: journal
   image: dummy.png
   description: ""
@@ -293,7 +293,7 @@
     display: (2017) Revista Iberoamericana de Automática e Informática Industrial RIAI, 14(4), 346-354.
   highlight: 0
   
-- title: Improving challenge/skill ratio in a multimodal interface by simultaneously adapting game difficulty and haptic assistance through psychophysiological and performance feedback
+- title: "Improving challenge/skill ratio in a multimodal interface by simultaneously adapting game difficulty and haptic assistance through psychophysiological and performance feedback"
   type: journal
   image: dummy.png
   description: ""
@@ -303,7 +303,7 @@
     display: (2017) Frontiers in neuroscience, 11, 242.
   highlight: 0
   
-- title: Robotic platform for surgery assistance in single incision laparoscopy techniques
+- title: "Robotic platform for surgery assistance in single incision laparoscopy techniques"
   type: journal
   image: dummy.png
   description: ""
@@ -313,7 +313,7 @@
     display: "(2017) British Journal of Surgery (Vol. 104, pp. 24-24). 111 River St, Hoboken 07030-5774, NJ USA: Wiley-Blackwell"
   highlight: 0
   
-- title: Smart cable-driven camera robotic assistant
+- title: "Smart cable-driven camera robotic assistant"
   type: journal
   image: dummy.png
   description: ""
@@ -333,7 +333,7 @@
     display: (2016) Advances in Mechanical Engineering, 8(8), 1687814016659050.
   highlight: 0
   
-- title: Capacitive sensing for non-invasive breathing and heart monitoring in non-restrained, non-sedated laboratory mice
+- title: "Capacitive sensing for non-invasive breathing and heart monitoring in non-restrained, non-sedated laboratory mice"
   type: journal
   image: dummy.png
   description: ""
@@ -343,7 +343,7 @@
     display: (2016) MDPI Sensors, 16(7), 1052.
   highlight: 0
   
-- title: Neuromuscular electrical stimulation modelling by physiological and black-box approach
+- title: "Neuromuscular electrical stimulation modelling by physiological and black-box approach"
   type: journal
   image: dummy.png
   description: ""
@@ -353,7 +353,7 @@
     display: (2016) Revista Iberoamericana de Automática e Informática Industrial RIAI, 13(3), 330-337.
   highlight: 0
   
-- title: Introduction to special section "Cooperative human-robot interaction in the clinical setting"
+- title: "Introduction to special section Cooperative human-robot interaction in the clinical setting"
   type: journal
   image: dummy.png
   description: ""
@@ -373,7 +373,7 @@
     display: (2013) Computer methods and programs in biomedicine, 112(2), 250-259.
   highlight: 0
   
-- title: A minimally invasive surgery robotic assistant for HALS-SILS techniques
+- title: "A minimally invasive surgery robotic assistant for HALS-SILS techniques"
   type: journal
   image: dummy.png
   description: ""
@@ -383,7 +383,7 @@
     display: (2013) Computer methods and programs in biomedicine, 112(2), 272-283.
   highlight: 0
 
-- title: Robot Biocooperativo con Modulación Háptica para Tareas de Neurorehabilitación de los Miembros Superiores
+- title: "Robot Biocooperativo con Modulación Háptica para Tareas de Neurorehabilitación de los Miembros Superiores"
   type: journal
   image: dummy.png
   description: ""
@@ -393,7 +393,7 @@
     display: (2011) Revista Iberoamericana de Automática e Informática Industrial RIAI, 8(2), 63-70.
   highlight: 0
   
-- title: Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform
+- title: "Integration of a Surgical Robotic Co-worker in an Endoscopic Neurosurgical Assistance Platform"
   type: congress
   image: dummy.png
   description: ""
@@ -403,7 +403,7 @@
     display: (2019) Iberian Robotics conference (pp. 453-464). Springer, Cham.
   highlight: 0
 
-- title: Estrategia para el control háptico, basado en electromiografía, de un exoesqueleto de mano para neurorehabilitación
+- title: "Estrategia para el control háptico, basado en electromiografía, de un exoesqueleto de mano para neurorehabilitación"
   type: congress
   image: dummy.png
   description: ""
@@ -413,7 +413,7 @@
     display: (2019) 11 Simposio CEA de Bioingeniería.
   highlight: 0
 
-- title: Sistema de visión para el guiado de un asistente robótico en operaciones de cirugía endonasal
+- title: "Sistema de visión para el guiado de un asistente robótico en operaciones de cirugía endonasal"
   type: congress
   image: dummy.png
   description: ""
@@ -433,7 +433,7 @@
     display: (2018) International Conference on NeuroRehabilitation (pp. 390-394). Springer, Cham.
   highlight: 0
 
-- title: Sistema de visión para seguimiento automático de gasas quirúrgicas en cirugía laparoscópica
+- title: "Sistema de visión para seguimiento automático de gasas quirúrgicas en cirugía laparoscópica"
   type: congress
   image: dummy.png
   description: ""
@@ -443,7 +443,7 @@
     display: (2018) Actas de las XXXIX Jornadas de Automática, Badajoz, 5-7 de Septiembre.
   highlight: 0
 
-- title: Robhand, un exoesqueleto de mano para la rehabilitación neuromotora aplicando terapias activas y pasivas
+- title: "Robhand, un exoesqueleto de mano para la rehabilitación neuromotora aplicando terapias activas y pasivas"
   type: congress
   image: dummy.png
   description: ""
@@ -453,7 +453,7 @@
     display: (2018) Actas de las XXXIX Jornadas de Automática, Badajoz
   highlight: 0
 
-- title: Characterization of Hand Movements using a Sensing Glove in Hand Assisted Laparoscopic Surgery
+- title: "Characterization of Hand Movements using a Sensing Glove in Hand Assisted Laparoscopic Surgery"
   type: congress
   image: dummy.png
   description: ""
@@ -463,7 +463,7 @@
     display: (2017) Proceedings of the 2017 4th International Conference on Biomedical and Bioinformatics Engineering (pp. 63-67).
   highlight: 0
 
-- title: Parallel computing for real time gauze detection in laparoscopy images
+- title: "Parallel computing for real time gauze detection in laparoscopy images"
   type: congress
   image: dummy.png
   description: ""
@@ -473,7 +473,7 @@
     display: (2017) 2nd IEEE International Conference on Bio-engineering for Smart Technologies (BioSMART) (pp. 1-5).
   highlight: 0
 
-- title: Collaborative Robotic System for Hand-Assisted Laparoscopic Surgery
+- title: "Collaborative Robotic System for Hand-Assisted Laparoscopic Surgery"
   type: congress
   image: dummy.png
   description: ""
@@ -483,7 +483,7 @@
     display: (2017) Iberian Robotics conference (pp. 548-553). Springer, Cham
   highlight: 0
 
-- title: First Results on the Joint Use of E2Rebot and Gradior to Improve Cognitive Abilities
+- title: "First Results on the Joint Use of E2Rebot and Gradior to Improve Cognitive Abilities"
   type: congress
   image: dummy.png
   description: ""
@@ -503,7 +503,7 @@
     display: (2017) Converging Clinical and Engineering Research on Neurorehabilitation II (pp. 1205-1209). Springer, Cham.
   highlight: 0
 
-- title: Sistema de Visión Estereoscópico para el guiado de un robot quirúrgico en operaciones de cirugía laparoscópica HALS
+- title: "Sistema de Visión Estereoscópico para el guiado de un robot quirúrgico en operaciones de cirugía laparoscópica HALS"
   type: congress
   image: dummy.png
   description: ""
@@ -513,7 +513,7 @@
     display: (2017) Actas de las XXXVIII Jornadas de Automática
   highlight: 0
 
-- title: Detección mediante un guante sensorizado de movimientos seleccionados en un sistema robotizado colaborativo para Hals
+- title: "Detección mediante un guante sensorizado de movimientos seleccionados en un sistema robotizado colaborativo para Hals"
   type: congress
   image: dummy.png
   description: ""
@@ -523,7 +523,7 @@
     display: (2017) Actas de las XXXVIII Jornadas de Automática
   highlight: 0
 
-- title: Diseño mecánico de un asistente robótico camarógrafo con aprendizaje cognitivo
+- title: "Diseño mecánico de un asistente robótico camarógrafo con aprendizaje cognitivo"
   type: congress
   image: dummy.png
   description: ""
@@ -543,7 +543,7 @@
     display: "(2015) Robot 2015: Second Iberian Robotics Conference (pp. 303-314). Springer, Cham."
   highlight: 0
 
-- title: Transnational lifelong education course in robotic systems
+- title: "Transnational lifelong education course in robotic systems"
   type: congress
   image: dummy.png
   description: ""
@@ -553,7 +553,7 @@
     display: (2015) IECON-41st Annual Conference of the IEEE Industrial Electronics Society (pp. 004181-004186).
   highlight: 0
 
-- title: E2REBOT plataforma robotizada para rehabilitación de miembros superiores en personas con discapacidad neuromotora y/o cognitiva
+- title: "E2REBOT plataforma robotizada para rehabilitación de miembros superiores en personas con discapacidad neuromotora y/o cognitiva"
   type: congress
   image: dummy.png
   description: ""
@@ -563,7 +563,7 @@
     display: (2015) IBERDISCAP, VIII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad
   highlight: 0  
  
-- title: Procesamiento paralelo de imágenes de video para la detección de sangrado y vendas en operaciones de cirugía laparoscópica
+- title: "Procesamiento paralelo de imágenes de video para la detección de sangrado y vendas en operaciones de cirugía laparoscópica"
   type: congress
   image: dummy.png
   description: ""
@@ -573,7 +573,7 @@
     display: (2015) Actas de las XXXVI Jornadas de Automática.
   highlight: 0
 
-- title: Guante de datos sensorizado para uso en cirugía laparoscópica asistida por la mano (HALS)
+- title: "Guante de datos sensorizado para uso en cirugía laparoscópica asistida por la mano (HALS)"
   type: congress
   image: dummy.png
   description: ""
@@ -583,7 +583,7 @@
     display: (2015) Actas de las XXXVI Jornadas de Automática, 2-4.
   highlight: 0
 
-- title: Preliminary results from the use of the SOFTROBOT platform in stroke patients
+- title: "Preliminary results from the use of the SOFTROBOT platform in stroke patients"
   type: congress
   image: dummy.png
   description: ""
@@ -593,7 +593,7 @@
     display: (2013) Converging Clinical and Engineering Research on Neurorehabilitation (pp. 215-226). Springer, Berlin, Heidelberg.
   highlight: 0
 
-- title: Evolución de la plataforma robotizada de neuro-rehabilitación physiobot
+- title: "Evolución de la plataforma robotizada de neuro-rehabilitación physiobot"
   type: congress
   image: dummy.png
   description: ""
@@ -603,7 +603,7 @@
     display: (2013) VII Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad (Iberdiscap 2013), Santo Domingo (República Dominicana) (pp. 287-292)
   highlight: 0
 
-- title: Using psychophysiological feedback to enhance physical human robot interaction in a cooperative scenario
+- title: "Using psychophysiological feedback to enhance physical human robot interaction in a cooperative scenario"
   type: congress
   image: dummy.png
   description: ""
@@ -613,7 +613,7 @@
     display: (2012) 4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob) (pp. 1176-1181)
   highlight: 0
 
-- title: Bio cooperative robotic platform for motor function recovery of the upper limb after stroke
+- title: "Bio cooperative robotic platform for motor function recovery of the upper limb after stroke"
   type: congress
   image: dummy.png
   description: ""
