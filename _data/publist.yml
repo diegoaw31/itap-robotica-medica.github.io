@@ -133,13 +133,12 @@
 - title: "RobHand: A Hand Exoskeleton With Real-Time EMG-Driven Embedded Control. Quantifying Hand Gesture Recognition Delays for Bilateral Rehabilitation"
   type: journal
   image: robhand_pic.jpg
-  description: "
-    This paper presents the RobHand
+  description:
+    "This paper presents the RobHand
     (Robot for Hand Rehabilitation) system, which is an exoskeleton that supports EMG-driven assisted bilateral
     by using a custom-made low-cost EMG real-time embedded solution. A threshold non-pattern recognition
     EMG-driven control for RobHand has been developed, and it detects hand gestures of the healthy hand and
-    replicates the gesture on the exoskeleton placed on the paretic hand.
-  "
+    replicates the gesture on the exoskeleton placed on the paretic hand."
   authors: Cisnal, A., Pérez-Turiel, J., Fraile, J. C., Sierra, D., & de la Fuente, E.
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9562297
@@ -159,14 +158,12 @@
 - title: "Collaborative Robotic Assistant Platform for Endonasal Surgery: Preliminary In-Vitro Trials"
   type: journal
   image: colab_surgery.jpg
-  description: "
-  This paper
+  description: "This paper
     aims to go a step further with a platform that includes a teleoperated robot and an autonomous robot
     dedicated to secondary tasks. In this way, the aim is to reduce the surgeon’s workload so that he can
     concentrate on his main task. Thus, the article focuses on the description and implementation of a
     navigator that coordinates both robots via a force/position control. Finally, both the navigation and
-    control scheme were validated by in-vitro tests.
-  "
+    control scheme were validated by in-vitro tests."
   authors: Muñoz, V.F., Garcia-Morales, I., Fraile-Marinero,  J.C., Perez-Turiel, J., Muñoz-Garcia, A., Bauzano, E., Rivas-Blanco, I., Sabater-Navarro, J.M., & de la Fuente, E.
   link:
     url: https://www.mdpi.com/1424-8220/21/7/2320
@@ -180,7 +177,7 @@
   authors: de la Rica, A.C., Sierra, D., Turiel, J.P., Marinero, J.C.F.
   link:
     url: https://dialnet.unirioja.es/servlet/articulo?codigo=8094804
-    display: (2021) XLII Jornadas de Automática: libro de actas, 152-159, Castellón, 1 a 3 de septiembre
+    display: "(2021) XLII Jornadas de Automática: libro de actas, 152-159, Castellón, 1 a 3 de septiembre"
   highlight: 0
   
 - title: "Prediction of Cow Calving in Extensive Livestock Using a New Neck-Mounted Sensorized Wearable Device: A Pilot Study"
@@ -240,7 +237,7 @@
   authors: Muñoz García, Á., Rivas, I., Turiel, J., Muñoz, V., Fraile Marinero, JP., de la Fuente, E., Sabater, J.M.
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-36150-1_37
-    display: (2020) Robot 2019: Fourth Iberian Robotics Conference: Advances in Robotics, Volume 2, 453-464
+    display: "(2020) Robot 2019: Fourth Iberian Robotics Conference: Advances in Robotics, Volume 2, 453-464"
   highlight: 0
   
 - title: "Application of a Novel Measurement Setup for Characterization of Graphene Microelectrodes and a Comparative Study of Variables Influencing Charge Injection Limits of Implantable Microelectrodes"
