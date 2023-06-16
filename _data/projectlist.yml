@@ -50,8 +50,8 @@
   image: "civex.jpg"
   description: 
     "
-    The general objective of this project is the creation, development and implementation in the cattle sector of the extensive beef, of a new animal management and management system that allows: 
-    knowledge and improvement of the health status of the animals (through monitoring not invasive of physical and animal variables: heart rate, temperature, respiration), and allow work to improve
+    The general objective of this project is the creation, development and implementation in the cattle sector of the extensive beef, of a new animal management and management system that allows 
+    knowledge and improvement of the health status of the animals (through monitoring not invasive of physical and animal variables heart rate, temperature, respiration), and allow work to improve
     the fertility and prolificacy rates of the livestock, optimize the management and control of livestock, and improve economic efficiency of livestock farms through control and cost savings.
     "
   url: "civex"
@@ -92,7 +92,7 @@
     "
   url: "endonasal"
   
-- title: "Sensorized Hals. Sensorized Environment for Laparoscopic Surgery Assisted by the Hand"
+- title: "Sensorized Hals Sensorized Environment for Laparoscopic Surgery Assisted by the Hand"
   image: "hals.png"
   description: 
     "
