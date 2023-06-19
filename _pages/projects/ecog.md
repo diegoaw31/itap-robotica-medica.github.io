@@ -39,3 +39,5 @@ This project aims to address these challenges by developing an ECOEEG (Economica
 <img src="{{ site.url }}{{ site.baseurl }}/images/logoticcyl.png"  class=" img-responsive" />
 </a>
 </div>
+
+</div>
