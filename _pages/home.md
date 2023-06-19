@@ -46,7 +46,7 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/civex_collares.jpg" alt="Slide 5" />
         </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3rob.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3robb.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
