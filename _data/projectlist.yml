@@ -11,7 +11,7 @@
     assistive Brain-Computer Interface (BCI) systems through the development of deep learning techniques. This requires the design, development, and validation of both the hardware and software of the proposed system, 
     enabling the creation of a portable and versatile device capable of capturing a sufficiently high-quality signal to control assistive BCIs, at a lower cost than the existing clinical EEG technology available in the market.
     "
-  url: "ecoeeg"
+  url: "ecog"
   
 - title: "Development and Clinical Trials of a Rehabilitation Platform to Accelerate the Recovery of Patients with Neuromotor Sequelae Caused by COVID"
   image: "covid.jpg"
