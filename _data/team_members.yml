@@ -48,7 +48,7 @@
   photo: bfv.png
   info: PhD student
   email: milan.allan@gmail.com
-  number_educ: 0
+  number_educ: 3
   education1: <a href="https://orcid.org/0000-0003-0090-3800">Link to ORCID</a>
   education2: <a href="https://scholar.google.es/citations?user=ipBfmuQAAAAJ&hl=es">Link to Google Scholar</a>
   education3: <a href="https://www.researchgate.net/profile/Borja-Fernandez-10>Link to ResearchGate</a>
@@ -64,14 +64,14 @@
   photo: gaal.jpg
   info: PhD student, Research Associate
   email: milan.allan@gmail.com
-  number_educ: 0
+  number_educ: 1
   education1: <a href="https://orcid.org/0000-0001-6501-7215">Link to ORCID</a>
 
 - name: Carlos Fontúrbel Mediavilla
   photo: cfm.jpg
   info: PhD student, Research Associate
   email: milan.allan@gmail.com
-  number_educ: 0
+  number_educ: 1
   education1: <a href="https://www.researchgate.net/profile/Carlos-Fonturbel>Link to ResearchGate</a> 
 
 - name: Diego de las Heras Rebellón
