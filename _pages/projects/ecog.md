@@ -28,6 +28,8 @@ This project aims to address these challenges by developing an ECOEEG (Economica
 
 ---
 
+<div style="display:block;margin-left:auto;margin-right:auto;width:75%;">
+  
 <div class="col-md-4">
 <a href="https://www.cdti.es/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/cdti.png"  class=" img-responsive" />
