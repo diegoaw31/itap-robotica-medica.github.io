@@ -7,7 +7,7 @@ permalink: /teamfotos/
 
 # Team Photos
 
-<!--
+
 
 Escalada 
 <figure>
@@ -15,4 +15,3 @@ Escalada
 </figure>
 
 
--->
