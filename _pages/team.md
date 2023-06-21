@@ -6,11 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 
-- title: "Fotos del equipo"
-  image: ""
-  description: ""
-  url: "teamfotos"
-  
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.jpg" alt="CN" style="width:40%;">
+
 # Group Members
 
 <!--
