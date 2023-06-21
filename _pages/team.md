@@ -6,6 +6,11 @@ sitemap: false
 permalink: /team/
 ---
 
+- title: "Fotos del equipo"
+  image: ""
+  description: ""
+  url: "teamfotos"
+  
 # Group Members
 
 <!--
