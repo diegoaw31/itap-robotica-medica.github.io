@@ -20,7 +20,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 -->
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG.jpg" alt="CN" style="width:40%;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG.jpg" style="width:40%;">
 
 
 ## Staff
