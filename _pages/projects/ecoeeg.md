@@ -30,12 +30,12 @@ This project aims to address these challenges by developing an ECOEEG (Economica
 
 <div class="col-md-4">
 <a href="https://www.cdti.es/">
-<img src="{{ site.url }}{{ site.baseurl }}/images/cdti.png"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cdti.png"  class=" img-responsive" />
 </a>
 </div>
 
 <div class="col-md-4">
 <a href="https://www.cyldigital.es/iniciativas-destacadas/asesorat-e-en-tic">
-<img src="{{ site.url }}{{ site.baseurl }}/images/ticcyl.png"  class=" img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ticcyl.png"  class=" img-responsive" />
 </a>
 </div>
