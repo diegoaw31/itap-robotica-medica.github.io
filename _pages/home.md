@@ -20,7 +20,7 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0"></li>
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
@@ -45,7 +45,7 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/civex_collares.jpg" alt="Slide 5" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3robb.png" alt="Slide 6" />
         </div>
     </div>
