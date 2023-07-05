@@ -9,11 +9,11 @@ permalink: /projects/robotizedassistance
 <br>
 ### Development of new electroencephalography technology for Brain-Computer Interface Assistential Systems (ECOEEG)
 
-<b>Funding Entity:</b> CDTI, research and development project. 
-<b>Reference:</b> IDI-20220556
-<b>Responsible company: </b> TICCYL (Salamanca)
-<b>Subcontracted center: </b>  ITAP - University of Valladolid
-<b>Duration:</b>  01-July-2022 – 1-July-2024
+<b>Funding Entity:</b> CDTI, research and development project.  
+<b>Reference:</b> IDI-20220556  
+<b>Responsible company: </b> TICCYL (Salamanca)  
+<b>Subcontracted center: </b>  ITAP - University of Valladolid  
+<b>Duration:</b>  01-July-2022 – 1-July-2024  
 
 ---
 
