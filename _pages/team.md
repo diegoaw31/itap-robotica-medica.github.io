@@ -21,7 +21,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 -->
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/escalada.JPG" style="width:40%;">
+#<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/escalada.JPG" style="width:40%;">
 
 
 
