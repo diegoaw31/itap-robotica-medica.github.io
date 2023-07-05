@@ -11,7 +11,7 @@ permalink: /contact.html
 <p style="font-weight: bold;font-size:x-large;padding-left:5px;padding-top:20px;">
 Juan-Carlos Fraile-Marinero  
 Tel. +34-983-423355  
-jcfraile@eii.uva.es
+jcfraile@uva.es
 </p>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/contpic/eii_outside.jpg" alt="EII" style="width:100%;">
