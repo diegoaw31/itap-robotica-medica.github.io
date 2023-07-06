@@ -34,7 +34,7 @@
   description: ""
   authors: Barria, P., Riquelme, M., Reppich, H., Cisnal, A., Fraile, JC., Pérez-Turiel, J., Sierra, D., Aguilar, R., Andrade, A., Nuñez-Espinosa, C.
   link:
-    url: "https://pubmed.ncbi.nlm.nih.gov/37033674/"
+    url: "https://www.frontiersin.org/articles/10.3389/frobt.2023.1146018/full"
     display: (2023) Mar 22, Frontiers in Robotics and AI, vol. 10, 1146018.
   highlight: 0
 
@@ -78,15 +78,15 @@
     display: (2022) XII Jornadas Nacionales de Robótica, pp. 221-227, Universidad de Málaga
   highlight: 0
   
-- title: "EMG-driven bilateral therapy for hand rehabilitation: Evaluation of the influence of an EMG-based visual biofeedback on the users’ performance"
-  type: journal
-  image: dummy.png
-  description: ""
-  authors: Cisnal, A., Gordaliza, P., Turiel, J.P., Fraile, J.C., Sierra, D.
-  link:
-    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://assets.researchsquare.com/files/rs-1619602/v1/6723c9f7-0a4c-45ee-b142-a8feeb27f112.pdf?c=1654644562
-    display: (2022) Research Square 
-  highlight: 0
+#- title: "EMG-driven bilateral therapy for hand rehabilitation: Evaluation of the influence of an EMG-based visual biofeedback on the users’ performance"
+#  type: journal
+#  image: dummy.png
+#  description: ""
+#  authors: Cisnal, A., Gordaliza, P., Turiel, J.P., Fraile, J.C., Sierra, D.
+#  link:
+#    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://assets.researchsquare.com/files/rs-1619602/v1/6723c9f7-0a4c-45ee-b142-a8feeb27f112.pdf?c=1654644562
+#    display: (2022) Research Square 
+#  highlight: 0
   
 - title: "Detección por deep learning de puntos de riesgo en la trayectoria de un asistente robotizado en cirugías endonasales transesfenoidales"
   type: congress
