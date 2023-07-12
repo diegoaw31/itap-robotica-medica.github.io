@@ -1,7 +1,7 @@
 - name: Juan-Carlos Fraile
   photo: jcf.jpg
   info: Associate professor, PhD Control Engineering
-  email: @gmail.com
+  email: gmail.com
   number_educ: 5
   education1: <a href="https://www.eii.uva.es/~jcfraile/">Website</a>
   education2: <a href="https://orcid.org/0000-0002-2877-7300">Link to ORCID</a>
@@ -12,7 +12,7 @@
 - name: Javier Pérez-Turiel
   photo: jpt.png
   info: Associate professor, PhD Control Engineering
-  email: @gmail.com
+  email: gmail.com
   number_educ: 3
   education1: <a href="https://orcid.org/0000-0002-7731-2411">Link to ORCID</a>
   education2: <a href="https://scholar.google.com/citations?user=a3bilikAAAAJ&hl=en">Link to Google Scholar</a>
@@ -21,7 +21,7 @@
 - name: Eusebio de la Fuente
   photo: efl.jpg
   info: Associate professor, PhD Control Engineer
-  email: @gmail.com
+  email: gmail.com
   number_educ: 2
   education1: <a href="https://orcid.org/0000-0001-5837-3510">Link to ORCID</a>
   education2: <a href="https://scholar.google.com/citations?user=DXn1IyEAAAAJ&hl=en">Link to Google Scholar</a>
@@ -30,7 +30,7 @@
 - name: José-Luis González-Sánchez
   photo: jlgs.jpg
   info: Associate professor, PhD Control Engineer
-  email: @gmail.com
+  email: gmail.com
   number_educ: 1
   education1: <a href="https://orcid.org/0000-0001-5397-3701">Link to ORCID</a>
   education2: <a href="https://www.researchgate.net/profile/Jose-Gonzalez-Sanchez-2">Link to ResearchGate</a>
@@ -38,7 +38,7 @@
 - name: Ana Cisnal
   photo: acr.jpg
   info: PhD student, Research Associate
-  email: @gmail.com
+  email: gmail.com
   number_educ: 3
   education1: <a href="https://orcid.org/0000-0002-1556-7179">Link to ORCID</a>
   education2: <a href="https://scholar.google.com/citations?hl=en&user=V5jQOYMAAAAJ">Link to Google Scholar</a>
@@ -47,7 +47,7 @@
 - name: Borja Fernández Villar
   photo: bfv.png
   info: PhD student
-  email: @gmail.com
+  email: gmail.com
   number_educ: 3
   education1: <a href="https://orcid.org/0000-0003-0090-3800">Link to ORCID</a>
   education2: <a href="https://scholar.google.es/citations?user=ipBfmuQAAAAJ&hl=es">Link to Google Scholar</a>
@@ -56,42 +56,42 @@
 - name: Víctor Moreno San Juan
   photo: vmsj.jpg
   info: PhD student
-  email: @gmail.com
+  email: gmail.com
   number_educ: 0
   education1: 
 
 - name: Gonzalo Alonso Alonso de Linaje
   photo: gaal.jpg
   info: PhD student, Research Associate
-  email: @gmail.com
+  email: gmail.com
   number_educ: 1
   education1: <a href="https://orcid.org/0000-0001-6501-7215">Link to ORCID</a>
 
 - name: Carlos Fontúrbel Mediavilla
   photo: cfm.jpg
   info: PhD student, Research Associate
-  email: @gmail.com
+  email: gmail.com
   number_educ: 1
   education1: <a href="https://www.researchgate.net/profile/Carlos-Fonturbel">Link to ResearchGate</a> 
 
 - name: Diego de las Heras Rebellón
   photo: dhr.png
   info: Research Assistant
-  email: @gmail.com
+  email: gmail.com
   number_educ: 0
   education1: 
   
 - name: Miguel Veganzones Parellada
   photo: mvl.png
   info: Research Associate
-  email: 
+  email: gmail.com
   number_educ: 0
   education1: 
   
 - name: Daniel Antolínez López
   photo: dal.jpg
   info: Research Assistant
-  email: @gmail.com
+  email: gmail.com
   number_educ: 0
   education1:
   
