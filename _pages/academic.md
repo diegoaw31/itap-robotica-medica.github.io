@@ -1,11 +1,11 @@
 ---
-title: "ITAP Medical Robotics - Academic"
+title: "ITAP Medical Robotics - Education"
 layout: piclay
-excerpt: "ITAP Medical Robotics -- Academic"
-permalink: /academic/
+excerpt: "ITAP Medical Robotics -- Education"
+permalink: /education/
 ---
 
-# Academic
+# Education
 
 Work in progress
 
