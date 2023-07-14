@@ -10,24 +10,10 @@ permalink: /team/
 
 # Group Members
 
-## [Team pictures](https://roboticamedica.itap.uva.es/teampictures/)
 
 <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;"></a>
+## [Team pictures    →](https://roboticamedica.itap.uva.es/teampictures/)
 
-
-    <div>
-            <a href="/teampictures">
-
-        <figure>
-        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" alt="">
-                <figcaption>
-                        <strong>Cena de Navidad</strong>
-                        <span class="meta">2022</span>
-                </figcaption>
-        </figure>
-
-            </a>
-    </div>
 
 <!--
 
