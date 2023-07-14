@@ -24,8 +24,15 @@ permalink: /teampictures/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+{% assign even_odd = number_printed | plus: 1 %}
     
 {% endfor %}
+
+{% if even_odd == 0 %}
+</div>
+{% endif %}
+
 
 Escalada 
 <figure>
