@@ -12,9 +12,10 @@ permalink: /team/
 
 
 <center><a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;"></a>
+  
   <div>
     
-  [Team pictures        →](https://roboticamedica.itap.uva.es/teampictures/)
+  <a href="https://roboticamedica.itap.uva.es/teampictures/">Team pictures        →</a>
   
   </div>
 
