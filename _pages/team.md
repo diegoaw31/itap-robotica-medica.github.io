@@ -12,17 +12,16 @@ permalink: /team/
 
 
 <center>
-  
+  <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;">
+
   <div>
-    
-    <a href="/teampictures">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;">
-    <caption> Team pictures →
-    </a>
-  
-  </div>
+
+  Team pictures        →
+
+  </div></a>
 
 </center>
+
 <!--
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
