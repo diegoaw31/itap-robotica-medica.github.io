@@ -12,7 +12,7 @@ permalink: /team/
 
 ## Team pictures
 
-<a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}images/teampic/comida_navidad.JPG"></a>
+<a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;"></a>
 
 <!--
 
