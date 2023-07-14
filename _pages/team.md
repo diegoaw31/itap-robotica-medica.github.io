@@ -12,7 +12,7 @@ permalink: /team/
 
 
 <center>
-  <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;">
+  <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/slider70014000/grupo.jpeg" style="width:40%;">
 
   <div>
 
