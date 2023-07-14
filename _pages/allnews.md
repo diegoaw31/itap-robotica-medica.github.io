@@ -12,5 +12,6 @@ permalink: /allnews.html
 <p>{{ article.date }}
 <br>
 <em>{{ article.headline }}</em>
-<br><a href=article.link>{{ article.linkface }}</a></p>
+<br>
+<li> {{ article.link }} </li>
 {% endfor %}
