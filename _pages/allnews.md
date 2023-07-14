@@ -13,5 +13,6 @@ permalink: /allnews.html
 <br>
 <em>{{ article.headline }}</em>
 <br>
-<li> {{ article.link }} </li>
+<li> {{ article.link }} </li></p>
+<br>
 {% endfor %}
