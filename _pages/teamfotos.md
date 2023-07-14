@@ -17,15 +17,9 @@ permalink: /teampictures/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <div>
-    <h4>{{ teampic.date }}</h4>
-  </div>
-  <div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ teampic.image }}" class="img-responsive" width="100%" style="float: bottom: 0" />
-  </div>
-  <div>
-    <p>{{ teampic.caption}}</p>
-  </div>
+  <h4>{{ teampic.date }}</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ teampic.image }}" class="img-responsive" width="100%" style="float: bottom: 0" />
+  <h5>{{ teampic.caption }}</h5>
   <ul style="overflow: hidden">
   </ul>
 </div>
