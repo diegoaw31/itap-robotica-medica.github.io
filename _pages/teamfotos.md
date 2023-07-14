@@ -18,10 +18,8 @@ permalink: /teampictures/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ teampic.date }}</h4>
-  <div style="position: relative;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ teampic.image }}" class="img-responsive" width="100%">
-    <h5 style="position: absolute; bottom: 10px; left: 10px;">{{ teampic.caption }}</h5>
-  </div>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ teampic.image }}" class="img-responsive" width="100%" />
+  <h5>{{ teampic.caption }}</h5>
   <ul style="overflow: hidden">
   </ul>
 </div>
