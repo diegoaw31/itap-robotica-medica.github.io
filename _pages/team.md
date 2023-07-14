@@ -56,21 +56,19 @@ permalink: /team/
   </a>
 </div>
 
-<div class="box-content">
-                <a href="/teampictures">
+    <div>
+            <a href="/teampictures">
 
-            <figure>
+        <figure>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" alt="">
+                <figcaption>
+                        <strong>Cena de Navidad</strong>
+                        <span class="meta">2022</span>
+                </figcaption>
+        </figure>
 
-
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" alt="">
-                    <figcaption>
-                            <strong>Cena de Navidad</strong>
-                            <span class="meta">2022</span>
-                    </figcaption>
-            </figure>
-
-                </a>
-        </div>
+            </a>
+    </div>
 
 <!--
 
