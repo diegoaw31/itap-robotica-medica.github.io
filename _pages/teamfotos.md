@@ -11,7 +11,7 @@ permalink: /teampictures/
 
 Escalada 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/escalada.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/escalada.JPG" width="60%">
 </figure>
 
 
