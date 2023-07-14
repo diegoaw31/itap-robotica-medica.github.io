@@ -17,9 +17,14 @@ permalink: /teampictures/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ picture.link }}" class="img-responsive" width="70%" style="float: bottom" />
   <h4>{{ picture.caption }}</h4>
   <ul style="overflow: hidden">
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+    
 {% endfor %}
 
 Escalada 
