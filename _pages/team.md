@@ -11,8 +11,10 @@ permalink: /team/
 # Group Members
 
 ## Team pictures
-  
-<a href="/teampictures" title=""><img src="images/teampic/comida_navidad.JPG" alt="Team Pictures"></div> <span class="link"><span class="text">Team pictures</span> <span aria-hidden="true" class="material-icons">
+
+<a href="/teampictures"><img src="images/teampic/comida_navidad.JPG"></a>
+/*  
+<a href="/teampictures" title=""><img src="images/teampic/comida_navidad.JPG" alt="Team Pictures"></div> <span class="link"><span class="text">Team pictures</span> <span aria-hidden="true" class="material-icons">*/
 
 
 <!--
