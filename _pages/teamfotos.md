@@ -2,10 +2,10 @@
 title: "ITAP Medical Robotics - Team Photos"
 layout: piclay
 excerpt: "ITAP Medical Robotics -- Team Photos"
-permalink: /teamfotos/
+permalink: /teampictures/
 ---
 
-# Team Photos
+# Team Pictures
 
 
 
