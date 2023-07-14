@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-
+  
   
 [ITAP (Institute of Advanced Production Technologies)](https://www.itap.uva.es/) is an university research institute of the University of Valladolid, formed by more than 28 research professors from different areas of knowledge of the Faculty of Engineering and the Faculty of Medicine of the University of Valladolid. 
 We are one of the groups of this institute and focus our research in medical robotics. More specifically, we study rehabilitation robotics and collaborative and autonomous surgery. You can learn more about our Research lines [here](/research).
@@ -37,7 +37,7 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robhand_render.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3robb.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/endonasal.jpg" alt="Slide 4" />
@@ -46,7 +46,7 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/civex_collares.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3robb.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.jpeg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
