@@ -202,13 +202,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 3 %}
+{% if even_odd == 2 %}
 </div>
 {% endif %}
 
 {% endfor %}
 
-{% if even_odd != 3 %}
+{% assign even_odd = number_printed | modulo: 3 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
