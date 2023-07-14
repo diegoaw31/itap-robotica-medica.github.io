@@ -14,6 +14,44 @@ permalink: /team/
 
 <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;"></a>
 
+<!-- Items -->
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" alt="Slide 1" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/escalada.JPG" alt="Slide 2" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robhand_test.jpg" alt="Slide 3" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/endonasal.jpg" alt="Slide 4" />
+    </div>       
+     <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/civex_collares.jpg" alt="Slide 5" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m3robb.png" alt="Slide 6" />
+    </div>
+</div>
+
+<div class="box-content">
+                <a href="/teampictures">
+
+            <figure>
+
+
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" alt="">
+                    <figcaption>
+                            <strong>Cena de Navidad</strong>
+                            <span class="meta">2022</span>
+                    </figcaption>
+            </figure>
+
+                </a>
+        </div>
+
 <!--
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
