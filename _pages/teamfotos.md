@@ -37,8 +37,4 @@ permalink: /teampictures/
 </div>
 {% endif %}
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/escalada.JPG" width="60%">
-</figure>
-
 
