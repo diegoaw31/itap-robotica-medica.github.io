@@ -1,12 +1,10 @@
 - date: 5 July 2023
   headline: We have confirmed our attendance to XLIV Jornadas de Automática 2023 in Zaragoza.
-  linkface: XLIV Jornadas de Automática 2023
-  link: https://xliv.jautomatica.es/
+  link: <a href="https://xliv.jautomatica.es/">XLIV Jornadas de Automática 2023</a>
 
 - date: 14 June 2023
   headline: We attended the XIII Jornadas Nacionales de Robótica and XIV Simposio CEA de Bioingeniería in Madrid.
-  linkface: XIII Jornadas Nacionales de Robótica y Bioingeniería 2023
-  link: https://www.ceautomatica.es/blog/2023/03/23/jornadas-nacionales-de-robotica-y-bioingenieria/
+  link: <a href="https://www.ceautomatica.es/blog/2023/03/23/jornadas-nacionales-de-robotica-y-bioingenieria/">XIII Jornadas Nacionales de Robótica y Bioingeniería 2023</a>
 
 
 #- date: 13. December 2021
