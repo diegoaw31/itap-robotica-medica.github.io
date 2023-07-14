@@ -14,6 +14,17 @@ permalink: /team/
 
 <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;"></a>
 
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+    </ol>
+
 <!-- Items -->
 <div class="carousel-inner" markdown="0">
     <div class="item active">
