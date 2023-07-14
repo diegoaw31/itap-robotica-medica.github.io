@@ -7,9 +7,19 @@ permalink: /teampictures/
 
 # Team Pictures
 
+{% assign number_printed = 0 %}
 {% for picture in site.data.teampictures %}
-<p>{{ picture }}<br><em>{{ picture.caption }}</em></p>
-{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ picture.caption }}</h4>
+  <ul style="overflow: hidden">
 
 Escalada 
 <figure>
