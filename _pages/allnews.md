@@ -7,7 +7,7 @@ permalink: /allnews.html
 ---
 
 # News
-<br>
+
 {% for article in site.data.news %}
 <p>{{ article.date }}
 <br>
