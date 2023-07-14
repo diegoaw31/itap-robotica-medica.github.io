@@ -31,7 +31,7 @@ We are located in the Faculty of Engineering of the University of Valladolid (Me
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robhand_test.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robotrehab.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/robhand_render.jpg" alt="Slide 2" />
