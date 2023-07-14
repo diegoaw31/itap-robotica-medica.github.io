@@ -2,7 +2,7 @@
 title: "ITAP Medical Robotics - Education"
 layout: piclay
 excerpt: "ITAP Medical Robotics -- Education"
-permalink: /Education/
+permalink: /education/
 ---
 
 # Education
