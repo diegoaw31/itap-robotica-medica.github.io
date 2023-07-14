@@ -12,13 +12,15 @@ permalink: /team/
 
 
 <center>
-  <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;">
   
   <div>
     
-  Team pictures        →
+    <a href="/teampictures">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;">
+    <caption> Team pictures →
+    </a>
   
-  </div></a>
+  </div>
 
 </center>
 <!--
