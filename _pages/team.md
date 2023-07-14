@@ -16,9 +16,9 @@ permalink: /team/
   
   <div>
     
-  Team pictures        →</a>
+  Team pictures        →
   
-  </div>
+  </div></a>
 
 </center>
 <!--
