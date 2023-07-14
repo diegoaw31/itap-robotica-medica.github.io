@@ -12,13 +12,15 @@ permalink: /team/
 
 ## Team pictures
   
-<!----> <ul class="child-nav__list child-nav__list--only-one-item"><li data-groupcodes="" class="child-nav__item child-nav__teaser-item"><a href="/teampictures" title="" class="child-nav__link"><div class="child-nav__teaser-wrapper"><img src="images/teampic/comida_navidad.JPG" alt="Team Pictures" class="child-nav__image child-nav__image-teaser"></div> <span class="child-nav__item-link"><span class="child-nav__item-text">Team pictures</span> <span aria-hidden="true" class="material-icons">
-              chevron_right
-            </span></span></a></li></ul></nav></div></div>
+<!----> <a href="/teampictures" title="" class="child-nav__link"><div class="child-nav__teaser-wrapper"><img src="images/teampic/comida_navidad.JPG" alt="Team Pictures" class="child-nav__image child-nav__image-teaser"></div> <span class="child-nav__item-link"><span class="child-nav__item-text">Team pictures</span> <span aria-hidden="true" class="material-icons">
+
+
 <!--
+
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+
 -->
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;"> 
