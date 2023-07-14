@@ -11,11 +11,12 @@ permalink: /team/
 # Group Members
 
 
-<center><a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;"></a>
+<center>
+  <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;">
   
   <div>
     
-  <a href="https://roboticamedica.itap.uva.es/teampictures/">Team pictures        →</a>
+  Team pictures        →</a>
   
   </div>
 
