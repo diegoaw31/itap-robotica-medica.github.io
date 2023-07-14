@@ -11,7 +11,7 @@ permalink: /team/
 # Group Members
 
 
-<a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:40%;"></a>
+<a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/comida_navidad.JPG" style="width:100%;"></a>
 ### [Team pictures        →](https://roboticamedica.itap.uva.es/teampictures/)
 
 
