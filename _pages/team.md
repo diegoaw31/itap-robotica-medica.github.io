@@ -12,7 +12,7 @@ permalink: /team/
 
 ## Team pictures
   
-<!----> <a href="/teampictures" title="" class="child-nav__link"><div class="child-nav__teaser-wrapper"><img src="images/teampic/comida_navidad.JPG" alt="Team Pictures" class="child-nav__image child-nav__image-teaser"></div> <span class="child-nav__item-link"><span class="child-nav__item-text">Team pictures</span> <span aria-hidden="true" class="material-icons">
+<a href="/teampictures" title=""><img src="images/teampic/comida_navidad.JPG" alt="Team Pictures"></div> <span class="link"><span class="text">Team pictures</span> <span aria-hidden="true" class="material-icons">
 
 
 <!--
