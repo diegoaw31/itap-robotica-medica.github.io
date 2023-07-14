@@ -20,6 +20,7 @@ permalink: /teampictures/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ picture.caption }}</h4>
   <ul style="overflow: hidden">
+{% endfor %}
 
 Escalada 
 <figure>
