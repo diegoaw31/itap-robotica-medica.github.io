@@ -7,7 +7,9 @@ permalink: /teampictures/
 
 # Team Pictures
 
-
+{% for picture in site.data.teampictures %}
+<p>{{ picture }}<br><em>{{ picture.caption }}</em></p>
+{% endfor %}
 
 Escalada 
 <figure>
