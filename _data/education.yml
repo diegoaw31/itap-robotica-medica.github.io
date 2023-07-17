@@ -1,7 +1,68 @@
-- title: "Entornos virtuales para la rehabilitación funcional de la muñeca"
+- title: "Entornos virtuales para la rehabilitación funcional de la muñeca."
   url: 
-  author: Sergio Talegón de la Fuente
-  tutor: Javier Pérez Turiel
-  year: 2023
-  studies: Grado en Ingeniería Biomédica
+  author: Sergio Talegón de la Fuente.
+  tutor: Javier Pérez Turiel.
+  year: 2023.
+  studies: Grado en Ingeniería Biomédica.
+
+- title: "Guiado mediante visión artificial de un asistente robotizado en operaciones de cirugía laparoscópica."
+  url: 
+  author: Diego Benavides Cobos.
+  tutor: Eusebio de la Fuente López y Juan Carlos Fraile Marinero.
+  year: 2023.
+  studies: Grado en Ingeniería Biomédica.
+  
+# presentados 2023
+
+- title: "Entorno de realidad aumentada para rehabilitación de miembro superior."
+  url: 
+  author: David Matilla Plaza.
+  tutor: Eusebio de la Fuente López.
+  year: 2023.
+  studies: Grado en Ingeniería Electrónica Industrial y Automática.
+
+# presentados 2022
+
+- title: "Segmentación automática de imágenes de resonancia magnética cerebral mediante redes neuronales convolucionales."
+  url: https://uvadoc.uva.es/handle/10324/53670
+  author: Adrián Ayuso Lera.
+  tutor: Eusebio de la Fuente López.
+  year: 2022.
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Sistema para la detección de instrumental quirúrgico en vídeos de cirugía laparoscópica empleando redes neuronales."
+  url: https://uvadoc.uva.es/handle/10324/54177
+  author: Raúl Valbuena Pardal.
+  tutor: Eusebio de la Fuente López.
+  year: 2022.
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Segmentación de manos en imágenes en primera persona empleando Deep Learning."
+  url: https://uvadoc.uva.es/handle/10324/54190
+  author: Miguel Veganzones Parellada.
+  tutor: Eusebio de la Fuente López.
+  year: 2022.
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Control de un robot asistente en cirugía laparoscópica guiado por visión."
+  url: 
+  author: Pedro Delgado Vicario.
+  tutor: Eusebio de la Fuente López y J.C. Fraile Marinero
+  year: 2022
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Adaptación de un mecanismo para el movimiento de un dedo de la mano mediante un exoesqueleto utilizando un motor lineal."
+  url: 
+  author: David Olmos Villanueva.
+  tutor: Javier Pérez Turiel.
+  year: 2022.
+  studies: Grado en Ingeniería en Electrónica industrial y Automática.
+
+
+- title: ""
+  url: 
+  author: 
+  tutor: 
+  year: 2022
+  studies: 
 
