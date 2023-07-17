@@ -9,9 +9,11 @@ permalink: /education/
 
 {% for file in site.data.education %}
 
+  <a target="_blank" href="{{ file.link.url | replace: '!!baseurl!!', site.url      }}">{{ file.title }}</a>
   {{ file.title }} <br />
   <em>{{ file.authors }} </em><br />
-  <a target="_blank" href="{{ file.link.url | replace: '!!baseurl!!', site.url }}">{{ file.link.display }}</a>
+  <b>"Titulación: "</b>{{ file.studies }} <br  />
+  
 
 {% endfor %}
 
