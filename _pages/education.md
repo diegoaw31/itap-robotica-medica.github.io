@@ -6,6 +6,7 @@ sitemap: false
 permalink: /education/
 ---
 
+
 # Education
 
 {% for file in site.data.education %}
