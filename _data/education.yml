@@ -19,7 +19,7 @@
   author: David Matilla Plaza.
   tutor: Eusebio de la Fuente López.
   year: 2023.
-  studies: Grado en Ingeniería Electrónica Industrial y Automática.
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
 
 # presentados 2022
 
@@ -37,6 +37,13 @@
   year: 2022.
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
 
+- title: "Adaptación de un mecanismo para el movimiento de un dedo de la mano mediante un exoesqueleto utilizando un motor lineal."
+  url: 
+  author: David Olmos Villanueva.
+  tutor: Javier Pérez Turiel.
+  year: 2022.
+  studies: Grado en Ingeniería en Electrónica industrial y Automática.
+
 - title: "Segmentación de manos en imágenes en primera persona empleando Deep Learning."
   url: https://uvadoc.uva.es/handle/10324/54190
   author: Miguel Veganzones Parellada.
@@ -47,22 +54,80 @@
 - title: "Control de un robot asistente en cirugía laparoscópica guiado por visión."
   url: 
   author: Pedro Delgado Vicario.
-  tutor: Eusebio de la Fuente López y J.C. Fraile Marinero
+  tutor: Eusebio de la Fuente López y J.C. Fraile Marinero.
   year: 2022
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
 
-- title: "Adaptación de un mecanismo para el movimiento de un dedo de la mano mediante un exoesqueleto utilizando un motor lineal."
-  url: 
-  author: David Olmos Villanueva.
+# presentados 2021
+
+
+- title: "Implementación de un entorno de comunicación Bluetooth, basado en el módulo cc2560, para la transmisión del ritmo cardiaco."
+  url: https://uvadoc.uva.es/handle/10324/47901
+  author: Alonso Álvarez Urueña.
   tutor: Javier Pérez Turiel.
-  year: 2022.
-  studies: Grado en Ingeniería en Electrónica industrial y Automática.
+  year: 2021
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
 
-
-- title: ""
+- title: "Interacción con un robot colaborativo mediante un interfaz háptico."
   url: 
-  author: 
-  tutor: 
-  year: 2022
-  studies: 
+  author: Jorge Rodríguez Acebrón.
+  tutor: Javier Pérez Turiel.
+  year: 2021
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Detección de instrumentos quirúrgicos en imágenes para cirugía laparoscópica robotizada."
+  url: https://uvadoc.uva.es/handle/10324/47195
+  author: Daniel Sanz Gobernado.
+  tutor: Eusebio de la Fuente López.
+  year: 2021
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Seguimiento de gasas quirúrgicas en imágenes de laparoscopia empleando redes neuronales convolucionales."
+  url: http://uvadoc.uva.es/handle/10324/45061
+  author: Francisco Javier Santos Criado.
+  tutor: Eusebio de la Fuente López.
+  year: 2021
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Implementación de un entorno de comunicación Bluetooth basado en el módulo HC-06."
+  url: 
+  author: David Mucientes San José.
+  tutor: Javier Pérez Turiel.
+  year: 2021
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Diseño e Implementación de la Electrónica de Control Háptico para un Robot de Rehabilitación."
+  url: 
+  author: Daniel Antolínez López.
+  tutor: Javier Pérez Turiel y Rubén Alonso Alonso.
+  year: 2021
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Cicloergómetro háptico para el control del esfuerzo físico del usuario."
+  url: 
+  author: César Lara Barriuso.
+  tutor: Javier Pérez Turiel.
+  year: 2020
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Gestión y análisis de una base de datos con el resultado de terapias de rehabilitación neuromotora."
+  url: 
+  author: Fernando Del Pozo Ituero.
+  tutor: Javier Pérez Turiel.
+  year: 2020
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Diseño e implementación de un explorador de archivos DICOM para realidad virtual y aumentada."
+  url: http://uvadoc.uva.es/handle/10324/41402
+  author: Guillermo Sánchez Brizuela.
+  tutor: Eusebio de la Fuente López.
+  year: 2020
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+
+- title: "Análisis y Gestión de Riesgos de un prototipo de exoesqueleto de mano para rehabilitación neuro-motora."
+  url: 
+  author: Sara Tapia Cuesta.
+  tutor: Javier Pérez Turiel.
+  year: 2019
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática.
 
