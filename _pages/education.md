@@ -7,7 +7,12 @@ permalink: /education/
 
 # Education
 
-Work in progress
+{% for file in site.data.education %}
+
+  {{ file.title }} <br />
+  <em>{{ file.authors }} </em><br /><a target="_blank" href="{{ file.link.url | replace: '!!baseurl!!', site.url }}">{{ file.link.display }}</a>
+
+{% endfor %}
 
 <!--
 
