@@ -1,7 +1,7 @@
 ---
 title: "ITAP Medical Robotics - Education"
 layout: gridlay
-excerpt: "ITAP Medical Robotics -- Education"
+excerpt: "ITAP Medical Robotics -- Education."
 sitemap: false
 permalink: /education/
 ---
