@@ -16,9 +16,11 @@ permalink: /education/
   
 {% endfor %}
 
-<p> &nbsp; </p>
 
 <!--
+<p> &nbsp; </p>
+
+
 
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
@@ -82,7 +84,7 @@ From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
 From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
+</figure> -->
 
 ## St Andrews
 From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
