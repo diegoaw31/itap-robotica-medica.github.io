@@ -1,12 +1,12 @@
 ---
 title: "ITAP Medical Robotics - Education"
-layout: piclay
+layout: gridlay
 excerpt: "ITAP Medical Robotics -- Education"
 permalink: /education/
 ---
 
 # Education
-<div>
+
 {% for file in site.data.education %}
 
   {{ file.title }} <br />
@@ -15,7 +15,7 @@ permalink: /education/
 
 {% endfor %}
 
-</div>
+
 <!--
 
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
