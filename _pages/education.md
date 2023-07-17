@@ -9,7 +9,7 @@ permalink: /education/
 
 {% for file in site.data.education %}
 
-  <a target="_blank" href="{{ file.url }}">{{ file.title }}</a>
+  <a target="_blank" href="{{ file.url }}">{{ file.title }}</a><br>
   <b>"Author: "</b>{{ file.title }} <b>". Tutor:"</b>{{ file.tutor }}<b>". Año:"</b>{{ file.year }}<br />
   <em>{{ file.authors }} </em><br />
   <b>"Titulación: "</b>{{ file.studies }} <br  />
