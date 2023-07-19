@@ -18,7 +18,7 @@
   state: 1
   
 - title: "Entorno de realidad aumentada para rehabilitación de miembro superior."
-  url: # no aparece en uvadoc
+  url: # no aparece en uvadoc ni en google
   author: David Matilla Plaza.
   tutor: Eusebio de la Fuente López.
   year: 2023.
@@ -26,7 +26,7 @@
   state: 1
 
 - title: "Entornos virtuales para la rehabilitación funcional de la muñeca."
-  url: # no aparece en uvadoc
+  url: # no aparece en uvadoc ni en google
   author: Sergio Talegón de la Fuente.
   tutor: Javier Pérez Turiel.
   year: 2023.
@@ -52,7 +52,7 @@
   state: 2
 
 - title: "Adaptación de un mecanismo para el movimiento de un dedo de la mano mediante un exoesqueleto utilizando un motor lineal."
-  url: # no aparece en uvadoc
+  url: # no aparece en uvadoc ni en google
   author: David Olmos Villanueva.
   tutor: Javier Pérez Turiel.
   year: 2022.
@@ -68,7 +68,7 @@
   state: 2
 
 - title: "Control de un robot asistente en cirugía laparoscópica guiado por visión."
-  url: # no aparece en uvadoc
+  url: # no aparece en uvadoc ni en google
   author: Pedro Delgado Vicario.
   tutor: Eusebio de la Fuente López y J.C. Fraile Marinero.
   year: 2022
@@ -119,7 +119,7 @@
   state: 2
 
 - title: "Diseño e Implementación de la Electrónica de Control Háptico para un Robot de Rehabilitación."
-  url: # no aparece en uvadoc
+  url: # no aparece en uvadoc ni en google
   author: Daniel Antolínez López.
   tutor: Javier Pérez Turiel y Rubén Alonso Alonso.
   year: 2021
@@ -135,12 +135,12 @@
   state: 2
 
 - title: "Gestión y análisis de una base de datos con el resultado de terapias de rehabilitación neuromotora."
-  url: # no aparece en uvadoc
+  url: https://uvadoc.uva.es/bitstream/handle/10324/45014/TFG-I-1730.pdf
   author: Fernando Del Pozo Ituero.
   tutor: Javier Pérez Turiel.
   year: 2020
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
-  state: 1  
+  state: 2
 
 - title: "Diseño e implementación de un explorador de archivos DICOM para realidad virtual y aumentada."
   url: http://uvadoc.uva.es/handle/10324/41402
