@@ -15,7 +15,7 @@ permalink: /education/
 
   {% if file.state == 0 %}  <!-- Para los trabajos en curso -->
   
-    {{ file.title }}<br>
+    {{ file.title }} <br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
     <b>Titulación: </b>{{ file.studies }} <br  />
     
