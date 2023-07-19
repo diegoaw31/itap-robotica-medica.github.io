@@ -1,10 +1,4 @@
-- title: "Entornos virtuales para la rehabilitación funcional de la muñeca."
-  url: 
-  author: Sergio Talegón de la Fuente.
-  tutor: Javier Pérez Turiel.
-  year: 2023.
-  studies: Grado en Ingeniería Biomédica.
-  state: 0
+
 
 - title: "Guiado mediante visión artificial de un asistente robotizado en operaciones de cirugía laparoscópica."
   url: 
@@ -23,6 +17,14 @@
   tutor: Eusebio de la Fuente López.
   year: 2023.
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
+
+- title: "Entornos virtuales para la rehabilitación funcional de la muñeca."
+  url: 
+  author: Sergio Talegón de la Fuente.
+  tutor: Javier Pérez Turiel.
+  year: 2023.
+  studies: Grado en Ingeniería Biomédica.
   state: 1
 
 # presentados 2022
