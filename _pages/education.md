@@ -30,7 +30,7 @@ permalink: /education/
 
   {% if file.state == 1 %}  <!- Para los trabajos acabados y ocultos ->
   
-    <a target="_blank" href="{{ file.url }}">{{ file.title }} (OCULTO)</a><br>
+    {{ file.title }} (OCULTO)<br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
     <b>Titulación: </b>{{ file.studies }} <br  />
     
