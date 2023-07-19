@@ -23,7 +23,6 @@ permalink: /education/
   
 {% endfor %}
 
-<br>
 
 ## Concluded documents
 
