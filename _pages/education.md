@@ -9,6 +9,7 @@ permalink: /education/
 
 # Education
 
+## Work in progress
 {% for file in site.data.education %}
 
   {% if file.state = 0 %}  <!- Para los trabajos en curso ->
@@ -18,7 +19,8 @@ permalink: /education/
   {% endif %}
   
 {% endfor %}
-
+<br>
+## Concluded documents
 {% for file in site.data.education %}
 
   {% if file.state != 1 %}  <!- Para los trabajos acabados y ocultos ->
