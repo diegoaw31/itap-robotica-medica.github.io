@@ -9,7 +9,7 @@ permalink: /education/
 
 # Education
 
-## Work in progress
+## Ongoing student projects
 
 {% for file in site.data.education %}
 
@@ -24,7 +24,7 @@ permalink: /education/
 {% endfor %}
 
 
-## Concluded documents
+## Finished student projects
 
 {% for file in site.data.education %}
 
