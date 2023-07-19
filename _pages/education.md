@@ -24,7 +24,7 @@ permalink: /education/
 {% endfor %}
 
 
-## Finished student research projects
+## Completed student research projects
 
 {% for file in site.data.education %}
 
