@@ -10,9 +10,10 @@ permalink: /education/
 # Education
 
 ## Work in progress
+
 {% for file in site.data.education %}
 
-  {% if file.state == 0 %}  <!- Para los trabajos en curso ->
+  {% if file.state == 0 %}  <!-- Para los trabajos en curso -->
   
     {{ file.title }}<br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
@@ -28,7 +29,7 @@ permalink: /education/
 
 {% for file in site.data.education %}
 
-  {% if file.state == 1 %}  <!- Para los trabajos acabados y ocultos ->
+  {% if file.state == 1 %}  <!-- Para los trabajos acabados y ocultos -->
   
     {{ file.title }} (OCULTO)<br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
