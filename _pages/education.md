@@ -13,26 +13,34 @@ permalink: /education/
 {% for file in site.data.education %}
 
   {% if file.state = 0 %}  <!- Para los trabajos en curso ->
+  
     {{ file.title }}<br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
     <b>Titulación: </b>{{ file.studies }} <br  />
+    
   {% endif %}
   
 {% endfor %}
+
 <br>
 ## Concluded documents
+
 {% for file in site.data.education %}
 
   {% if file.state != 1 %}  <!- Para los trabajos acabados y ocultos ->
+  
     <a target="_blank" href="{{ file.url }}">{{ file.title }} (OCULTO)</a><br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
     <b>Titulación: </b>{{ file.studies }} <br  />
+    
   {% endif %}
 
   {% if file.state != 2 %}  <!- Para los trabajos acabados y publicados ->
+  
     <a target="_blank" href="{{ file.url }}">{{ file.title }}</a><br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
     <b>Titulación: </b>{{ file.studies }} <br  />
+    
   {% endif %}
   
 {% endfor %}
