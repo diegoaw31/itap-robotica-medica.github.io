@@ -4,6 +4,7 @@
   tutor: Javier Pérez Turiel.
   year: 2023.
   studies: Grado en Ingeniería Biomédica.
+  state: 0
 
 - title: "Guiado mediante visión artificial de un asistente robotizado en operaciones de cirugía laparoscópica."
   url: 
@@ -11,6 +12,8 @@
   tutor: Eusebio de la Fuente López y Juan Carlos Fraile Marinero.
   year: 2023.
   studies: Grado en Ingeniería Biomédica.
+  state: 0
+
   
 # presentados 2023
 
@@ -20,6 +23,7 @@
   tutor: Eusebio de la Fuente López.
   year: 2023.
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
 
 # presentados 2022
 
@@ -29,6 +33,7 @@
   tutor: Eusebio de la Fuente López.
   year: 2022.
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 2
 
 - title: "Sistema para la detección de instrumental quirúrgico en vídeos de cirugía laparoscópica empleando redes neuronales."
   url: https://uvadoc.uva.es/handle/10324/54177
@@ -36,6 +41,7 @@
   tutor: Eusebio de la Fuente López.
   year: 2022.
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 2
 
 - title: "Adaptación de un mecanismo para el movimiento de un dedo de la mano mediante un exoesqueleto utilizando un motor lineal."
   url: 
@@ -43,6 +49,7 @@
   tutor: Javier Pérez Turiel.
   year: 2022.
   studies: Grado en Ingeniería en Electrónica industrial y Automática.
+  state: 1
 
 - title: "Segmentación de manos en imágenes en primera persona empleando Deep Learning."
   url: https://uvadoc.uva.es/handle/10324/54190
@@ -50,6 +57,7 @@
   tutor: Eusebio de la Fuente López.
   year: 2022.
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 2
 
 - title: "Control de un robot asistente en cirugía laparoscópica guiado por visión."
   url: 
@@ -57,6 +65,7 @@
   tutor: Eusebio de la Fuente López y J.C. Fraile Marinero.
   year: 2022
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
 
 # presentados 2021
 
@@ -67,6 +76,7 @@
   tutor: Javier Pérez Turiel.
   year: 2021
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 2
 
 - title: "Interacción con un robot colaborativo mediante un interfaz háptico."
   url: 
@@ -74,6 +84,7 @@
   tutor: Javier Pérez Turiel.
   year: 2021
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
 
 - title: "Detección de instrumentos quirúrgicos en imágenes para cirugía laparoscópica robotizada."
   url: https://uvadoc.uva.es/handle/10324/47195
@@ -81,6 +92,7 @@
   tutor: Eusebio de la Fuente López.
   year: 2021
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 2
 
 - title: "Seguimiento de gasas quirúrgicas en imágenes de laparoscopia empleando redes neuronales convolucionales."
   url: http://uvadoc.uva.es/handle/10324/45061
@@ -88,6 +100,7 @@
   tutor: Eusebio de la Fuente López.
   year: 2021
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 2
 
 - title: "Implementación de un entorno de comunicación Bluetooth basado en el módulo HC-06."
   url: 
@@ -95,6 +108,7 @@
   tutor: Javier Pérez Turiel.
   year: 2021
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
 
 - title: "Diseño e Implementación de la Electrónica de Control Háptico para un Robot de Rehabilitación."
   url: 
@@ -102,6 +116,7 @@
   tutor: Javier Pérez Turiel y Rubén Alonso Alonso.
   year: 2021
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
 
 - title: "Cicloergómetro háptico para el control del esfuerzo físico del usuario."
   url: 
@@ -109,6 +124,7 @@
   tutor: Javier Pérez Turiel.
   year: 2020
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
 
 - title: "Gestión y análisis de una base de datos con el resultado de terapias de rehabilitación neuromotora."
   url: 
@@ -116,6 +132,7 @@
   tutor: Javier Pérez Turiel.
   year: 2020
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
 
 - title: "Diseño e implementación de un explorador de archivos DICOM para realidad virtual y aumentada."
   url: http://uvadoc.uva.es/handle/10324/41402
@@ -123,6 +140,7 @@
   tutor: Eusebio de la Fuente López.
   year: 2020
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 2
 
 - title: "Análisis y Gestión de Riesgos de un prototipo de exoesqueleto de mano para rehabilitación neuro-motora."
   url: 
@@ -130,4 +148,5 @@
   tutor: Javier Pérez Turiel.
   year: 2019
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
+  state: 1
 
