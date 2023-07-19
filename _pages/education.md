@@ -13,7 +13,7 @@ permalink: /education/
 
 {% for file in site.data.education %}
 
-  {% if file.state == 0 %}  <!-- Para los trabajos en curso -->
+  {% if file.state == 0 %} 
   
     {{ file.title }} <br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
@@ -29,7 +29,7 @@ permalink: /education/
 
 {% for file in site.data.education %}
 
-  {% if file.state == 1 %}  <!-- Para los trabajos acabados y ocultos -->
+  {% if file.state == 1 %} 
   
     {{ file.title }} (OCULTO)<br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
@@ -37,7 +37,7 @@ permalink: /education/
     
   {% endif %}
 
-  {% if file.state == 2 %}  <!- Para los trabajos acabados y publicados ->
+  {% if file.state == 2 %}
   
     <a target="_blank" href="{{ file.url }}">{{ file.title }}</a><br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
