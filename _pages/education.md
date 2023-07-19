@@ -23,6 +23,7 @@ permalink: /education/
 {% endfor %}
 
 <br>
+
 ## Concluded documents
 
 {% for file in site.data.education %}
