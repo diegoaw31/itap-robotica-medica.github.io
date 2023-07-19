@@ -1,10 +1,10 @@
-- title: "."
-  url: 
-  author: .
-  tutor: .
-  year: .
-  studies: .
-  state: 0
+# - title: "."
+#  url: 
+#  author: .
+#  tutor: .
+#  year: .
+#  studies: .
+#  state: 0
       # state indica si está en curso (0), terminado sin vínculo (1) o terminado y publicado (2)
 
 # presentados 2023
