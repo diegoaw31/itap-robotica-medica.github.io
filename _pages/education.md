@@ -14,9 +14,13 @@ permalink: /education/
 {% for file in site.data.education %}
 
   {% if file.state == 0 %} 
+  
+    <p>
     {{ file.title }}<br />
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
     <b>Titulación: </b>{{ file.studies }} <br  />
+    </p>
+    
   {% endif %}
   
 {% endfor %}
