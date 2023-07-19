@@ -1,18 +1,24 @@
+- title: "."
+  url: 
+  author: .
+  tutor: .
+  year: .
+  studies: .
+  state: 0
+      # state indica si está en curso (0), terminado sin vínculo (1) o terminado y publicado (2)
 
+# presentados 2023
 
 - title: "Guiado mediante visión artificial de un asistente robotizado en operaciones de cirugía laparoscópica."
-  url: 
+  url: # no está subido aún
   author: Diego Benavides Cobos.
   tutor: Eusebio de la Fuente López y Juan Carlos Fraile Marinero.
   year: 2023.
   studies: Grado en Ingeniería Biomédica.
-  state: 0
-
+  state: 1
   
-# presentados 2023
-
 - title: "Entorno de realidad aumentada para rehabilitación de miembro superior."
-  url: 
+  url: # no aparece en uvadoc
   author: David Matilla Plaza.
   tutor: Eusebio de la Fuente López.
   year: 2023.
@@ -20,7 +26,7 @@
   state: 1
 
 - title: "Entornos virtuales para la rehabilitación funcional de la muñeca."
-  url: 
+  url: # no aparece en uvadoc
   author: Sergio Talegón de la Fuente.
   tutor: Javier Pérez Turiel.
   year: 2023.
@@ -46,7 +52,7 @@
   state: 2
 
 - title: "Adaptación de un mecanismo para el movimiento de un dedo de la mano mediante un exoesqueleto utilizando un motor lineal."
-  url: 
+  url: # no aparece en uvadoc
   author: David Olmos Villanueva.
   tutor: Javier Pérez Turiel.
   year: 2022.
@@ -62,7 +68,7 @@
   state: 2
 
 - title: "Control de un robot asistente en cirugía laparoscópica guiado por visión."
-  url: 
+  url: # no aparece en uvadoc
   author: Pedro Delgado Vicario.
   tutor: Eusebio de la Fuente López y J.C. Fraile Marinero.
   year: 2022
@@ -81,12 +87,12 @@
   state: 2
 
 - title: "Interacción con un robot colaborativo mediante un interfaz háptico."
-  url: 
+  url: https://uvadoc.uva.es/handle/10324/48020
   author: Jorge Rodríguez Acebrón.
   tutor: Javier Pérez Turiel.
   year: 2021
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
-  state: 1
+  state: 2
 
 - title: "Detección de instrumentos quirúrgicos en imágenes para cirugía laparoscópica robotizada."
   url: https://uvadoc.uva.es/handle/10324/47195
@@ -105,15 +111,15 @@
   state: 2
 
 - title: "Implementación de un entorno de comunicación Bluetooth basado en el módulo HC-06."
-  url: 
+  url: https://uvadoc.uva.es/handle/10324/48095
   author: David Mucientes San José.
   tutor: Javier Pérez Turiel.
   year: 2021
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
-  state: 1
+  state: 2
 
 - title: "Diseño e Implementación de la Electrónica de Control Háptico para un Robot de Rehabilitación."
-  url: 
+  url: # no aparece en uvadoc
   author: Daniel Antolínez López.
   tutor: Javier Pérez Turiel y Rubén Alonso Alonso.
   year: 2021
@@ -121,20 +127,20 @@
   state: 1
 
 - title: "Cicloergómetro háptico para el control del esfuerzo físico del usuario."
-  url: 
+  url: https://uvadoc.uva.es/handle/10324/42214
   author: César Lara Barriuso.
   tutor: Javier Pérez Turiel.
   year: 2020
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
-  state: 1
+  state: 2
 
 - title: "Gestión y análisis de una base de datos con el resultado de terapias de rehabilitación neuromotora."
-  url: 
+  url: # no aparece en uvadoc
   author: Fernando Del Pozo Ituero.
   tutor: Javier Pérez Turiel.
   year: 2020
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
-  state: 1
+  state: 1  
 
 - title: "Diseño e implementación de un explorador de archivos DICOM para realidad virtual y aumentada."
   url: http://uvadoc.uva.es/handle/10324/41402
@@ -145,10 +151,10 @@
   state: 2
 
 - title: "Análisis y Gestión de Riesgos de un prototipo de exoesqueleto de mano para rehabilitación neuro-motora."
-  url: 
+  url: https://uvadoc.uva.es/handle/10324/37830
   author: Sara Tapia Cuesta.
   tutor: Javier Pérez Turiel.
   year: 2019
   studies: Grado en Ingeniería en Electrónica Industrial y Automática.
-  state: 1
+  state: 2
 
