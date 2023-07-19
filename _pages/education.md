@@ -30,7 +30,7 @@ permalink: /education/
 
   {% if file.state == 1 %} 
   
-  {{ file.title }} (OCULTO)<br>
+  {{ file.title }} (Oculto)<br>
   <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
   <b>Titulación: </b>{{ file.studies }} <br  />
   
