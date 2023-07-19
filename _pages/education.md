@@ -9,7 +9,7 @@ permalink: /education/
 
 # Education
 
-## Current student projects
+<!-- ## Current student projects -->
 
 {% for file in site.data.education %}
 
