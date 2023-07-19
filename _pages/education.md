@@ -28,19 +28,15 @@ permalink: /education/
 {% for file in site.data.education %}
 
   {% if file.state == 1 %} 
-  
     {{ file.title }} (OCULTO)<br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
     <b>Titulación: </b>{{ file.studies }} <br  />
-    
   {% endif %}
 
   {% if file.state == 2 %}
-  
     <a target="_blank" href="{{ file.url }}">{{ file.title }}</a><br>
     <b>Autor: </b>{{ file.author }}<b> Tutor: </b>{{ file.tutor }}<b> Año: </b>{{ file.year }}<br />
     <b>Titulación: </b>{{ file.studies }} <br  />
-    
   {% endif %}
   
 {% endfor %}
